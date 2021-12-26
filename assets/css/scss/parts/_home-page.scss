@@ -154,33 +154,11 @@ footer {
   }
 
   .post-thumbnail {
-    width: 30%;
+    width: 100%;
     max-width: 100%;
     min-height: 11rem;
     background-size: cover;
     background-position: 50% 50%;
-  }
-
-  .post-content {
-    padding: 1rem;
-    width: 70%;
-    .post-date,
-    .post-words {
-      font-size: 12px;
-    }
-    .post-title {
-      margin: 0 0 10px;
-      font-size: 30px;
-      font-weight: 400;
-      a {
-        font-family: 'PT Serif', serif;
-        text-decoration: none;
-        color: $dark-blue;
-      }
-    }
-    p {
-      margin-top: 0;
-    }
   }
 }
 
