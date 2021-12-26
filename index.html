@@ -5,11 +5,10 @@ layout: main
 <article class="post">
   {% if post.img %}
     <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
+      <h2 class="post-title">{{post.title}}</h2>
   {% else %}
   {% endif %}
-  <div class="post-content">
-    <h2 class="post-title">{{post.title}}</h2>
-  </div>
+
 </article>
 {% endfor %}
 
