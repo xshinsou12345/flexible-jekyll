@@ -1146,8 +1146,8 @@ footer .copyright {
 }
 
 .post .post-content {
-  padding: 0rem;
-  width: 0%;
+  padding: 1rem;
+  width: 50%;
 }
 
 .post .post-content .post-date,
