@@ -3,7 +3,7 @@ layout: post
 title: Ubisoft Toronto NEXT Competition
 date: 2017-09-12 00:00:00 +0300
 description: UI Challenge
-img: js-1.png # Add image post (optional)
+img: ub-ft-1.png # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
 
