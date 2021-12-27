@@ -1054,7 +1054,7 @@ table tfoot td {
 }
 
 .contact ul li a {
-  color: #515151;
+  color: black;
   display: block;
   padding: 5px;
   font-size: 18px;
@@ -1064,10 +1064,7 @@ table tfoot td {
 }
 
 .contact ul li a:hover {
-  color: #333030;
-  -webkit-transform: scale(1.2);
-      -ms-transform: scale(1.2);
-          transform: scale(1.2);
+  color: grey;
 }
 
 footer .copyright {
