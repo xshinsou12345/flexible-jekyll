@@ -104,6 +104,22 @@ a {
   /* 2 */
 }
 
+a:link {
+  background-color: black;
+}
+
+a:visited {
+  background-color: black;
+}
+
+a:hover {
+  background-color: grey;
+}
+
+a:active {
+  background-color: grey;
+} 
+
 /**
  * 1. Remove the bottom border in Chrome 57- and Firefox 39-.
  * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
