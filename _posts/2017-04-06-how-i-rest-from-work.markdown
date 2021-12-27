@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Ubisoft Toronto NEXT Competition
+title: Virtual Courtroom Project
 date: 2017-09-12 13:32:20 +0300
-description: UI Challenge
+description: Internship
 fig-caption: # Add figcaption (optional)
 img: js-1.png # Add image post (optional)
 tags: [Holidays, Hawaii]
