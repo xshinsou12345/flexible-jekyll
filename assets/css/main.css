@@ -105,19 +105,19 @@ a {
 }
 
 a:link {
-  background-color: black;
+  color: black;
 }
 
 a:visited {
-  background-color: black;
+  color: black;
 }
 
 a:hover {
-  background-color: grey;
+  color: grey;
 }
 
 a:active {
-  background-color: grey;
+  color: grey;
 } 
 
 /**
