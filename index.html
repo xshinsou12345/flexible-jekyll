@@ -7,6 +7,7 @@ layout: main
     <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
   {% else %}
   {% endif %}
+  <h2 class="post-title">{{post.title}}</h2>
 </article>
 
 {% endfor %}
