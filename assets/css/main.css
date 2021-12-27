@@ -1018,44 +1018,14 @@ table tfoot td {
   font-size: 12px;
   margin: 0 0 5px;
   text-transform: uppercase;
-  text-align: center;
-}
-
-.contact .contact-title::before {
-  content: "";
-  display: block;
-  height: 2px;
-  width: -webkit-calc(50% - 48px);
-  width: calc(50% - 48px);
-  -webkit-transform: translateY(-50%);
-      -ms-transform: translateY(-50%);
-          transform: translateY(-50%);
-  position: absolute;
-  top: 50%;
-  left: 0;
-  background-color: #515151;
-}
-
-.contact .contact-title::after {
-  content: "";
-  display: block;
-  height: 2px;
-  width: -webkit-calc(50% - 48px);
-  width: calc(50% - 48px);
-  -webkit-transform: translateY(-50%);
-      -ms-transform: translateY(-50%);
-          transform: translateY(-50%);
-  position: absolute;
-  top: 50%;
-  right: 0;
-  background-color: #515151;
+  text-align: left;
 }
 
 .contact ul {
   margin: 0;
   padding: 0;
   list-style: none;
-  text-align: center;
+  text-align: left;
 }
 
 .contact ul li {
