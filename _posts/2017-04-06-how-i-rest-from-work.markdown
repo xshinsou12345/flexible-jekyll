@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ubisoft NeXT 2021
+title: Ubisoft Toronto NEXT Competition
 date: 2017-09-12 13:32:20 +0300
 description: UI Challenge
 fig-caption: # Add figcaption (optional)
