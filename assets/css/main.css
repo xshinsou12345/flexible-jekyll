@@ -979,6 +979,11 @@ table tfoot td {
   font-weight: 700;
 }
 
+
+.about .author-name a {
+  text-decoration: none;
+}
+
 .about p {
   font-size: 16px;
   margin: 0 0 10px;
