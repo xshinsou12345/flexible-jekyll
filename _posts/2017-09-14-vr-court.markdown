@@ -4,26 +4,247 @@ title: Virtual Courtroom Project
 permalink: /vcourtroom/
 description: Internship
 img: js-1.png # Add image post (optional)
-tags: [Holidays, Hawaii]
+tags: [UX, UI, User Research, Visual Design, Internship]
 ---
-Fam locavore snackwave bushwick +1 sartorial. Selfies portland knausgaard synth. Pop-up art party marfa deep v pitchfork subway tile 3 wolf moon. Ennui pinterest tumblr yr, adaptogen succulents copper mug twee. Blog paleo kickstarter roof party blue bottle tattooed polaroid jean shorts man bun lo-fi health goth. Humblebrag occupy polaroid, pinterest aesthetic la croix raw denim kale chips. 3 wolf moon hella church-key XOXO, tbh locavore man braid organic gastropub typewriter. Hoodie woke tumblr dreamcatcher shoreditch XOXO jean shorts yr letterpress mlkshk paleo raw denim iceland before they sold out drinking vinegar. Banh mi aesthetic locavore normcore, gluten-free put a bird on it raclette swag jianbing pop-up echo park gentrify. Stumptown brooklyn godard tumeric ethical. Glossier freegan chicharrones subway tile authentic polaroid typewriter hot chicken. Thundercats small batch heirloom meggings.
 
-## Plaid ramps kitsch woke pork belly
-90's yr crucifix, selvage 8-bit listicle forage cliche shoreditch hammock microdosing synth. Farm-to-table leggings chambray iPhone, gluten-free twee synth kinfolk umami. Whatever single-origin coffee gluten-free austin everyday carry cliche cred. Plaid ramps kitsch woke pork belly organic. Trust fund whatever coloring book kombucha brooklyn. Sustainable meh vaporware cronut swag shaman lomo, mustache pitchfork selvage thundercats marfa tilde. Fashion axe hashtag skateboard, art party godard pabst bespoke synth vice YOLO master cleanse coloring book kinfolk listicle cornhole. Try-hard mixtape umami fanny pack man bun gastropub franzen tbh. Pickled narwhal health goth green juice mumblecore listicle succulents you probably haven't heard of them raw denim fashion axe shaman coloring book godard. Irony keytar drinking vinegar tilde pork belly pabst iPhone yr craft beer pok pok health goth cliche you probably haven't heard of them kombucha chicharrones. Direct trade hella roof party chia. Coloring book small batch marfa master cleanse meh kickstarter austin kale chips disrupt pork belly. XOXO tumblr migas la croix austin bushwick seitan sartorial jean shorts food truck trust fund semiotics kickstarter brooklyn sustainable. Umami knausgaard mixtape marfa. Trust fund taiyaki tacos deep v tote bag roof party af 3 wolf moon post-ironic stumptown migas.
+<br>
 
-![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
+<table>
+<colgroup>
+<col width="30%" />
+<col width="5%" />
+<col width="30%" />
+<col width="5%" />
+<col width="30%" />
+</colgroup>
+<thead>
+<tr align="left">
+<th>Overview</th>
+<th></th>
+<th>Challenge</th>
+<th></th>
+<th>Role</th>
+</tr>
+</thead>
+  
+<tbody>
 
-Selfies sriracha taiyaki woke squid synth intelligentsia PBR&B ethical kickstarter art party neutra biodiesel scenester. Health goth kogi VHS fashion axe glossier disrupt, vegan quinoa. Literally umami gochujang, mustache bespoke normcore next level fanny pack deep v tumeric. Shaman vegan affogato chambray. Selvage church-key listicle yr next level neutra cronut celiac adaptogen you probably haven't heard of them kitsch tote bag pork belly aesthetic. Succulents wolf stumptown art party poutine. Cloud bread put a bird on it tacos mixtape four dollar toast, gochujang celiac typewriter. Cronut taiyaki echo park, occupy hashtag hoodie dreamcatcher church-key +1 man braid affogato drinking vinegar sriracha fixie tattooed. Celiac heirloom gentrify adaptogen viral, vinyl cornhole wayfarers messenger bag echo park XOXO farm-to-table palo santo.
+<tr>
+<td markdown="span" style="vertical-align: top; text-align: left;">This project was an exploration into human centered design through understanding different design research methods and to experience the design process using a real problem. The design challenge for this project was to create a digital experience or redesign a current digital app, to enhance the experience of commuting for Sheridan Students.</td>
 
->Hexagon shoreditch beard, man braid blue bottle green juice thundercats viral migas next level ugh. Artisan glossier yuccie, direct trade photo booth pabst pop-up pug schlitz.
+<td></td>
 
-Cronut lumbersexual fingerstache asymmetrical, single-origin coffee roof party unicorn. Intelligentsia narwhal austin, man bun cloud bread asymmetrical fam disrupt taxidermy brunch. Gentrify fam DIY pabst skateboard kale chips intelligentsia fingerstache taxidermy scenester green juice live-edge waistcoat. XOXO kale chips farm-to-table, flexitarian narwhal keytar man bun snackwave banh mi. Semiotics pickled taiyaki cliche cold-pressed. Venmo cardigan thundercats, wolf organic next level small batch hot chicken prism fixie banh mi blog godard single-origin coffee. Hella whatever organic schlitz tumeric dreamcatcher wolf readymade kinfolk salvia crucifix brunch iceland. Literally meditation four loko trust fund. Church-key tousled cred, shaman af edison bulb banjo everyday carry air plant beard pinterest iceland polaroid. Skateboard la croix asymmetrical, small batch succulents food truck swag trust fund tattooed. Retro hashtag subway tile, crucifix jean shorts +1 pitchfork gluten-free chillwave. Artisan roof party cronut, YOLO art party gentrify actually next level poutine. Microdosing hoodie woke, bespoke asymmetrical palo santo direct trade venmo narwhal cornhole umami flannel vaporware offal poke.
+<td markdown="span" style="vertical-align: top; text-align: left;">Commuting to school is a large part of a student's life and often not, students use up 1-2 hours (or even more) everyday in their lives to get to their classes. As using transit can be a bit dreadful and boring, how might we enhance the experience of commuting via transit to Sheridan Students?</td>
 
-* Hexagon shoreditch beard
-* Intelligentsia narwhal austin
-* Literally meditation four
-* Microdosing hoodie woke
+<td></td>
 
-Wayfarers lyft DIY sriracha succulents twee adaptogen crucifix gastropub actually hexagon raclette franzen polaroid la croix. Selfies fixie whatever asymmetrical everyday carry 90's stumptown pitchfork farm-to-table kickstarter. Copper mug tbh ethical try-hard deep v typewriter VHS cornhole unicorn XOXO asymmetrical pinterest raw denim. Skateboard small batch man bun polaroid neutra. Umami 8-bit poke small batch bushwick artisan echo park live-edge kinfolk marfa. Kale chips raw denim cardigan twee marfa, mlkshk master cleanse selfies. Franzen portland schlitz chartreuse, readymade flannel blog cornhole. Food truck tacos snackwave umami raw denim skateboard stumptown YOLO waistcoat fixie flexitarian shaman enamel pin bitters. Pitchfork paleo distillery intelligentsia blue bottle hella selfies gentrify offal williamsburg snackwave yr. Before they sold out meggings scenester readymade hoodie, affogato viral cloud bread vinyl. Thundercats man bun sriracha, neutra swag knausgaard jean shorts. Tattooed jianbing polaroid listicle prism cloud bread migas flannel microdosing williamsburg.
+<td markdown="span" style="vertical-align: top; text-align: left;">My role for this project encompasses everything from UX, UI, User Research, and Visual Design. This project took four months starting in September 2019.</td>
 
-Echo park try-hard irony tbh vegan pok pok. Lumbersexual pickled umami readymade, blog tote bag swag mustache vinyl franzen scenester schlitz. Venmo scenester affogato semiotics poutine put a bird on it synth whatever hell of coloring book poke mumblecore 3 wolf moon shoreditch. Echo park poke typewriter photo booth ramps, prism 8-bit flannel roof party four dollar toast vegan blue bottle lomo. Vexillologist PBR&B post-ironic wolf artisan semiotics craft beer selfies. Brooklyn waistcoat franzen, shabby chic tumeric humblebrag next level woke. Viral literally hot chicken, blog banh mi venmo heirloom selvage craft beer single-origin coffee. Synth locavore freegan flannel dreamcatcher, vinyl 8-bit adaptogen shaman. Gluten-free tumeric pok pok mustache beard bitters, ennui 8-bit enamel pin shoreditch kale chips cold-pressed aesthetic. Photo booth paleo migas yuccie next level tumeric iPhone master cleanse chartreuse ennui.
+</tr>
+
+</tbody>
+</table>
+
+<br>
+
+<hr>
+
+<br>
+
+### Commuting, the bane of a student's existence
+
+I think as students, majority of our time is mostly commuting back and forth to classes. At times, it is stressing because of its various issues like rush hour, overcrowding, delays, and other factors that would delay us from getting to class on time. For this project, the problem I had to solve was to create a solution to better the commute experience. We were encouraged to create anything from a physical product or digital.
+
+I decided to focus on the shuttle system that Sheridan provides, which was cut down to just two campuses in the recent year due to funding. My reason for focusing on Sheridan’s shuttle system was a few factors: 
+
+<br>
+
+<table>
+<colgroup>
+<col width="30%" />
+<col width="5%" />
+<col width="30%" />
+<col width="5%" />
+<col width="30%" />
+</colgroup>
+  <tr>
+    <th align="center"><i class="fa fa-mobile-alt fa-5x"></i><br></th>
+    <th></th>
+    <th align="center"><i class="fa fa-bus-alt fa-5x"></i><br></th>
+    <th></th>
+    <th align="center"><i class="fa fa-users fa-5x"></i><br></th>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: top;">A lot of solutions that cater to commuters</td>
+    <td></td>
+    <td align="center" style="vertical-align: top;">Personal experiences with the shuttle were not so great </td>
+    <td></td>
+    <td align="center" style="vertical-align: top;">Creating something truly unique just for Sheridan students</td>
+  </tr>
+</table>
+
+<br>    
+
+### The solution
+
+The idea was to integrate the shuttle and OneCard system that Sheridan uses (similarly to a card payment system) into an existing application called Transit. Eventually, the concept was to expand it to other school’s shuttle/payment systems so that students have the best of both worlds.
+
+![image]({{site.baseurl}}/assets/img/tr-ft-2.png)
+
+Why integrate rather than creating something new? I feel Transit is a perfect example of solving majority of issues that commuters face today, which is providing live transit data to the user. I figured, instead of reinventing the wheel, why not create a new function for an existing product.
+
+<br>
+
+### The research
+
+I used the goal-directed design process or the user centered design process (as commonly known). It involved different steps from research to the final product:
+
+![image]({{site.baseurl}}/assets/img/tr-ft-10.png)
+
+Research was done through interviews, since this project was small - I interviewed two students: One first year, who uses the shuttle and the other, a second-year student who takes Oakville Transit. The research provided a few things:
+
+<br>
+
+<table>
+<colgroup>
+<col width="30%" />
+<col width="5%" />
+<col width="30%" />
+<col width="5%" />
+<col width="30%" />
+</colgroup>
+  <tr>
+    <th align="center"><i class="fa fa-heart fa-5x"></i><br></th>
+    <th></th>
+    <th align="center"><i class="fa fa-meh fa-5x"></i><br></th>
+    <th></th>
+    <th align="center"><i class="fa fa-arrows-alt-h fa-5x"></i><br></th>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: top;">A “love-hate” relationship with the service</td>
+    <td></td>
+    <td align="center" style="vertical-align: top;">Dissatisfaction with the service</td>
+    <td></td>
+    <td align="center" style="vertical-align: top;">Variability of the service</td>
+  </tr>
+</table>
+
+<br>   
+
+Although, not everything was frustration as the interviews showed that they were happy that the service was there rather than not. Additional research was done in the form of observation, which was taking the shuttle and experiencing the commute - Which my conclusions were inline with the student who I interviewed.
+From the research, personas were created and then scenarios (below) to simulate the functionality of the integration. Two personas that were created were:
+
+<br>
+
+<table>
+  <colgroup>
+<col width="15%" />
+<col width="25%" />
+<col width="20%" />
+<col width="25%" />
+<col width="15%" />
+</colgroup>
+  <tr>
+    <th align="center"></th>
+    <th align="center"><i class="fa fa-user-tie fa-5x"></i></th>
+    <th align="center"></th>
+    <th align="center"><i class="fa fa-user-ninja fa-5x"></i></th>
+    <th align="center"></th>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <th align="center"></th>
+    <td align="center" style="vertical-align: top;">Person A:<br> I take city transit!</td>
+    <td align="center"></td>
+    <td align="center" style="vertical-align: top;">Person B:<br> I take the Sheridan shuttle!</td>
+    <td align="center"></td>
+  </tr>
+</table>
+
+<br>    
+
+Using the personas as a starting point, design requirements were created to understand what the user wants. After wards, scenarios were created to visualize how a user would use the function in a “perfect world”. Then it was off to create the wireframes and prototype.
+
+![image]({{site.baseurl}}/assets/img/tr-ft-3.png)
+<i style="font-size:12px;">First Persona</i>
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/tr-ft-4.png)
+<i style="font-size:12px;">Second Persona</i>
+
+<br>
+
+Further design research was completed such as Behavioural Attributes Mapping and framework sketches to determine user flow.
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
+<i style="font-size:12px;">Behavioural Attributes Map</i>
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/tr-ft-6.png)
+<i style="font-size:12px;">Framework (sketches) for mobile app</i>
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/tr-ft-7.png)
+<i style="font-size:12px;">Framework (sketches) for smartwatch app</i>
+
+<br>
+
+### The solution
+
+My solution was to integrate the shuttle service right into Transit. I felt rather than trying to force a solution on to an existing transit system with its own problems, I focused on the shuttle experience. By integrating Sheridan’s shuttle system and payment system into Transit, the application (Transit) can be used both ways: for students who commute using a city’s transit system and for students who use the school’s transportation system. 
+
+![image]({{site.baseurl}}/assets/img/tr-ft-8.png)
+
+But wait! Why these functions? My goal was to create convenience for the student. To reload an OneCard with funds, the student has to login to the website to reload. This is rather annoying since the student would either: need a computer or do it on the browser on their phone. Purchasing tickets is in a similar fashion, why make things hard when you can do it on your phone with ease?
+
+![image]({{site.baseurl}}/assets/img/tr-ft-9.png)
+
+The final prototype included an Apple Watch app as I wanted to expand the functionality into the wearables area. 
+
+<a href="https://xd.adobe.com/view/41d5c0b7-eda9-420f-4deb-c0afe5c24466-37e4/">Adobe XD link for mobile app</a>
+
+<a href="https://xd.adobe.com/view/53789c02-e1b8-40ae-5e5f-6407566c4d51-2549/">Adobe XD link for AW app</a>
+
+<br>
+
+### The take aways
+Throughout this project, the goal was to provide a solution to an existing problem through using the goal-oriented design process (or user centered design is commonly known as). It was fun and I used the skills that I gained from my previous recruitment experiences in interviewing and gathering/analyzing data. There were a few things that I learned through this project:
+
+> Research, research, and research.
+
+Research is important and I realize that it’s something that is needed to first understand the user and second, what the user wants. My goal was to create a solution that a student can use if he/she is using the shuttle. Although, it’s quite niche, I felt it was necessary due to the overall issues with the current system
+
+> Being unique
+
+I feel with this topic of transit, there are multiple solutions out there from Uber to Google Maps. All of these popular apps these days, are quite robust with it’s functionality and what it offers to the user regarding the commute to work or school. I learned it’s hard, to create something when many options exist and understanding the target market plus a USP (unique selling proposition) is important!
+
+> The user is king
+
+Through this project, I understood the importance of the user and what they want. I learned how to use the data that I got from interviews and translated it into what the user needs. It was hard because there’s just so much information, even with two interviews. I wanted to add more but keeping it simple was the best way to go.
+
+<br>
