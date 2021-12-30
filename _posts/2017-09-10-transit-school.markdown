@@ -185,27 +185,31 @@ From the research, personas were created and then scenarios (below) to simulate 
 Using the personas as a starting point, design requirements were created to understand what the user wants. After wards, scenarios were created to visualize how a user would use the function in a “perfect world”. Then it was off to create the wireframes and prototype.
 
 ![image]({{site.baseurl}}/assets/img/tr-ft-3.png)
-<i style="font-size:12px;">User scenario for persona</i>
+<i style="font-size:12px;">First Persona</i>
 
 <br>
 
 ![image]({{site.baseurl}}/assets/img/tr-ft-4.png)
-<i style="font-size:12px;">User scenario for persona</i>
+<i style="font-size:12px;">Second Persona</i>
+
+<br>
+
+Further design research was completed such as Behavioural Attributes Mapping and framework sketches to determine user flow.
 
 <br>
 
 ![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
-<i style="font-size:12px;">User scenario for persona</i>
+<i style="font-size:12px;">Behavioural Attributes Map</i>
 
 <br>
 
 ![image]({{site.baseurl}}/assets/img/tr-ft-6.png)
-<i style="font-size:12px;">User scenario for persona</i>
+<i style="font-size:12px;">Framework (sketches) for mobile app</i>
 
 <br>
 
 ![image]({{site.baseurl}}/assets/img/tr-ft-7.png)
-<i style="font-size:12px;">User scenario for persona</i>
+<i style="font-size:12px;">Framework (sketches) for smartwatch app</i>
 
 <br>
 
