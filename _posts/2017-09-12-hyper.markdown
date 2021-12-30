@@ -30,11 +30,11 @@ tags: [UI, Visual Design, Game Development] # add tag
 <tbody>
 
 <tr>
-<td markdown="span" style="vertical-align: top; text-align: left;">This personal passion project stemmed on wanting to do something futuristic after the Ubisoft NEXT 2020 UI Challenge. I also wanted to delve further into futuristic UI as it was one of my interests and something I heavily looked into when I was working on my piece for the Ubisoft NEXT UI Challenge.</td>
+<td markdown="span" style="vertical-align: top; text-align: left;">This personal passion project stemmed from wanting to do something futuristic after the Ubisoft NEXT 2020 UI Challenge. I also wanted to delve further into futuristic UI as it was one of my interests and something I heavily looked into when I was working on my piece for the Ubisoft NEXT UI Challenge.</td>
 
 <td></td>
 
-<td markdown="span" style="vertical-align: top; text-align: left;">Futuristic UI has always been visually interesting from a design standpoint but also suffers from usability. Looking at FUI in movies, I saw a trend that FUI is designed to look good but not functionally great. This posed a question of how might we create a FUI suited for video games?</td>
+<td markdown="span" style="vertical-align: top; text-align: left;">Futuristic UI has always been visually interesting from a design standpoint but also suffers from usability. Looking at FUI in movies, I saw a trend that FUI is designed to look good but not functionally great. This posed the question of how might we create an FUI suited for video games?</td>
 
 <td></td>
 
