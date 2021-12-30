@@ -73,12 +73,7 @@ figure {
 hr {
   -webkit-box-sizing: content-box;
           box-sizing: content-box;
-  /* 1 */
-  height: 0;
-  /* 1 */
-  overflow: visible;
-  /* 2 */
-  border: 1px solid #a0a0a0;
+  border: 0.5px solid #eeeeee;
 }
 
 /**
