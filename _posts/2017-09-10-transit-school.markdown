@@ -190,5 +190,3 @@ I feel with this topic of transit, there are multiple solutions out there from U
 Through this project, I understood the importance of the user and what they want. I learned how to use the data that I got from interviews and translated it into what the user needs. It was hard because there’s just so much information, even with two interviews. I wanted to add more but keeping it simple was the best way to go.
 
 <br>
-
-<hr>
