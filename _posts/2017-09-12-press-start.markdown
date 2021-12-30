@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Press Start
-date: 2017-09-12 00:00:00 +0300
+permalink: /pressstart/
 description: App Prototype
 img: st-ft-1.png # Add image post (optional)
 tags: [Productivity, Workflow] # add tag
