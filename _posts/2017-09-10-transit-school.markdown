@@ -30,20 +30,24 @@ tags: [UX, UI, User Research, Visual Design]
 <tbody>
 
 <tr>
-<td markdown="span">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce venenatis nec sem eget lobortis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In dictum faucibus odio, vel fermentum odio.</td>
+<td markdown="span">This project was an exploration into human centered design through understanding different design research methods and to experience the design process using a real problem.</td>
 
 <td></td>
 
-<td markdown="span">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce venenatis nec sem eget lobortis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In dictum faucibus odio, vel fermentum odio.</td>
+<td markdown="span">Commuting to school is a large part of a student's life and often not, students use up 1-2 hours (or even more) everyday in their lives to get to their classes. As using transit can be a bit dreadful and boring, how might we enhance the experience of commuting via transit to Sheridan Students?</td>
 
 <td></td>
 
-<td markdown="span">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce venenatis nec sem eget lobortis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In dictum faucibus odio, vel fermentum odio.</td>
+<td markdown="span">My role for this project encompasses everything from UX, UI, User Research, and Visual Design. This project took four months starting in September 2019.</td>
 
 </tr>
 
 </tbody>
 </table>
+
+<br>
+
+<hr>
 
 <br>
 
