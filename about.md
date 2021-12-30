@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: about
 title: About Me
 permalink: /about/
-img: tr-ft-1.png
+img: ab-1.jpg
 ---
 
 <br>
