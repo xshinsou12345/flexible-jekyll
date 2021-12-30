@@ -55,6 +55,8 @@ tags: [UI, UX, Visual Design] # add tag
 
 In this hackathon (College + Activision/Adobe Creative Jam), I teamed up with two of my friends against a whole ton of universities in the US, UK and Canada. The main theme is gaming, and we had the dauntless task of creating an app that caters to/informs new gamers. Our main concept was to create an app that provides recommendations to the user, in a easy and simple way. We took inspiration from Steam and other platforms (i.e. uPlay, Orgin, and Epic) and found a central theme: They were all overwhelming with games, especially for a new gamer. This can deter a new gamer due to too many choices and provide a high level of frustration.
 
+<br>
+
 We decided to focus on three main things for our app:
 
 <br>
@@ -101,6 +103,8 @@ Our goal was to provide an institutive UI where the user can easily navigate and
 With just 48 hours, we spent quite a bit of time talking about ideas and how we can execute them. I took the time to do a bit of research and taking a step back to view the overall picture of a new gamer, which aided us greatly. I investigated forums like Reddit and social media as I saw a trend where people would ask for suggestions for games for their kid, parents, or what to play. I also briefly looked into other platforms such as Steam and Orgin, to understand how they were recommending games.
 
 We started doing wireframes to start the process and then refined it further as we had a good design in mind. I took lead in the overall design and layout, I used a pastel purple colour for it to be inviting, casual, and safe. The concept was revolved around providing an intuitive and simple experience for the player, without overwhelming them with information.
+
+<br>
 
 [![1](/images/posts/strt6.png)](https://wilsontruong.com/images/posts/strt6.png)
 <i style="font-size:12px;">Wireframes! Oh so many of them!</i>
