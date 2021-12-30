@@ -78,6 +78,7 @@ hr {
   /* 1 */
   overflow: visible;
   /* 2 */
+  border: 1px solid #a0a0a0;
 }
 
 /**
@@ -204,10 +205,6 @@ sub {
 
 sup {
   top: -0.5em;
-}
-
-hr {
-  border-bottom: 1px solid #a0a0a0;
 }
 
 /* Embedded content
