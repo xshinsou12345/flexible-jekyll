@@ -65,9 +65,9 @@ I decided to focus on the shuttle system that Sheridan provides, which was cut d
 <col width="33.33%" />
 </colgroup>
   <tr>
-    <th align="center"><i class="fas fa-mobile-alt"></i></th>
-    <th align="center"><i class="fas fa-bus-alt"></i></th>
-    <th align="center"><i class="fas fa-users"></i></th>
+    <th align="center"><i class="fa fa-mobile-alt"></i></th>
+    <th align="center"><i class="fa fa-bus-alt"></i></th>
+    <th align="center"><i class="fa fa-users"></i></th>
   </tr>
   <tr>
     <td align="center">A lot of solutions that cater to commuters</td>
@@ -105,9 +105,9 @@ Research was done through interviews, since this project was small - I interview
 <col width="33.33%" />
 </colgroup>
   <tr>
-    <th align="center"><i class="fas fa-heart"></i></th>
-    <th align="center"><i class="fas fa-meh"></i></th>
-    <th align="center"><i class="fas fa-arrows-alt-h"></i></th>
+    <th align="center"><i class="fa fa-heart"></i></th>
+    <th align="center"><i class="fa fa-meh"></i></th>
+    <th align="center"><i class="fa fa-arrows-alt-h"></i></th>
   </tr>
   <tr>
     <td align="center">A “love-hate” relationship <br> with the service</td>
@@ -133,9 +133,9 @@ From the research, personas were created and then scenarios (below) to simulate 
 </colgroup>
   <tr>
     <th align="center"></th>
-    <th align="center"><i class="fas fa-user-tie"></i></th>
+    <th align="center"><i class="fa fa-user-tie"></i></th>
     <th align="center"></th>
-    <th align="center"><i class="fas fa-user-ninja"></i></th>
+    <th align="center"><i class="fa fa-user-ninja"></i></th>
     <th align="center"></th>
   </tr>
   <tr>
