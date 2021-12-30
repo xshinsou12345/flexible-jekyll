@@ -95,7 +95,7 @@ I decided to focus on the shuttle system that Sheridan provides, which was cut d
 
 The idea was to integrate the shuttle and OneCard system that Sheridan uses (similarly to a card payment system) into an existing application called Transit. Eventually, the concept was to expand it to other school’s shuttle/payment systems so that students have the best of both worlds.
 
-![image](/images/posts/transit1.png)
+![image]({{site.baseurl}}/assets/img/tr-ft-2.png)
 
 Why integrate rather than creating something new? I feel Transit is a perfect example of solving majority of issues that commuters face today, which is providing live transit data to the user. I figured, instead of reinventing the wheel, why not create a new function for an existing product.
 
@@ -105,7 +105,7 @@ Why integrate rather than creating something new? I feel Transit is a perfect ex
 
 I used the goal-directed design process or the user centered design process (as commonly known). It involved different steps from research to the final product:
 
-![image](/images/posts/ta9.png)
+![image]({{site.baseurl}}/assets/img/tr-ft-10.png)
 
 Research was done through interviews, since this project was small - I interviewed two students: One first year, who uses the shuttle and the other, a second-year student who takes Oakville Transit. The research provided a few things:
 
@@ -184,7 +184,27 @@ From the research, personas were created and then scenarios (below) to simulate 
 
 Using the personas as a starting point, design requirements were created to understand what the user wants. After wards, scenarios were created to visualize how a user would use the function in a “perfect world”. Then it was off to create the wireframes and prototype.
 
-[![0](/images/posts/scenario1.png)](https://wilsontruong.com/images/posts/scenario1.png)
+![image]({{site.baseurl}}/assets/img/tr-ft-3.png)
+<i style="font-size:12px;">User scenario for persona</i>
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/tr-ft-4.png)
+<i style="font-size:12px;">User scenario for persona</i>
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
+<i style="font-size:12px;">User scenario for persona</i>
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/tr-ft-6.png)
+<i style="font-size:12px;">User scenario for persona</i>
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/tr-ft-7.png)
 <i style="font-size:12px;">User scenario for persona</i>
 
 <br>
@@ -193,11 +213,11 @@ Using the personas as a starting point, design requirements were created to unde
 
 My solution was to integrate the shuttle service right into Transit. I felt rather than trying to force a solution on to an existing transit system with its own problems, I focused on the shuttle experience. By integrating Sheridan’s shuttle system and payment system into Transit, the application (Transit) can be used both ways: for students who commute using a city’s transit system and for students who use the school’s transportation system. 
 
-[![1](/images/posts/app2.png)](https://wilsontruong.com/images/posts/app2.png)
+![image]({{site.baseurl}}/assets/img/tr-ft-8.png)
 
 But wait! Why these functions? My goal was to create convenience for the student. To reload an OneCard with funds, the student has to login to the website to reload. This is rather annoying since the student would either: need a computer or do it on the browser on their phone. Purchasing tickets is in a similar fashion, why make things hard when you can do it on your phone with ease?
 
-[![2](/images/posts/app1.png)](https://wilsontruong.com/images/posts/app1.png)
+![image]({{site.baseurl}}/assets/img/tr-ft-9.png)
 
 The final prototype included an Apple Watch app as I wanted to expand the functionality into the wearables area. 
 
