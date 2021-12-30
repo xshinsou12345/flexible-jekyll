@@ -168,13 +168,7 @@ But wait! Why these functions? My goal was to create convenience for the student
 
 The final prototype included an Apple Watch app as I wanted to expand the functionality into the wearables area. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8HFv4kGCA1U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <a href="https://xd.adobe.com/view/41d5c0b7-eda9-420f-4deb-c0afe5c24466-37e4/">Adobe XD link for mobile app</a>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dK1qhvZQMOI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TwIIYmPU8ZA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <a href="https://xd.adobe.com/view/53789c02-e1b8-40ae-5e5f-6407566c4d51-2549/">Adobe XD link for AW app</a>
 
