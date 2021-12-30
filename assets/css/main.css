@@ -864,13 +864,13 @@ table thead {
 table thead th {
   font-size: 16px;
   font-weight: 500;
-  color: #000;
+  color: #515151;
 }
 
 table tfoot {
   font-size: 16px;
   font-weight: 500;
-  color: #fff;
+  color: #515151;
   background: none;
 }
 
