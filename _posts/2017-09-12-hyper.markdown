@@ -51,11 +51,24 @@ tags: [UI, Visual Design, Game Development] # add tag
 
 <br>
 
-### Commuting, the bane of a student's existence
+### Delving into the world of futuristic UI and HUDs
 
-I think as students, majority of our time is mostly commuting back and forth to classes. At times, it is stressing because of its various issues like rush hour, overcrowding, delays, and other factors that would delay us from getting to class on time. For this project, the problem I had to solve was to create a solution to better the commute experience. We were encouraged to create anything from a physical product or digital.
+After the Ubisoft NEXT competition in May 2020, I wasn't satisfied with my HUD mock-ups. I had ideas which never came to light. Although, I could use those ideas to create a concept HUD as a portfolio piece. I decided in July to work on this project, experimenting with futuristic UI and (more) After Effects.
 
-I decided to focus on the shuttle system that Sheridan provides, which was cut down to just two campuses in the recent year due to funding. My reason for focusing on Sheridan’s shuttle system was a few factors: 
+[![0](/images/posts/ubi13.jpg)](https://wilsontruong.com/images/posts/ubi13.jpg)
+<i style="font-size:12px;">My final HUD Mockup from the Ubisoft NEXT competition</i>
+
+My vision for this HUD was to use futuristic UI in a game setting. From doing a bit of visual research, I noticed that most FUI is generally unusable from a UX standpoint and used often in movies as more of a visual piece as to something functional. This was my goal for this project, to create a HUD that is functional while retaining the futuristic UI look.
+
+The second idea was to base the HUD around a battle royale, as it was an area that I was interested in and wanting to do more FPS styled games. The concept for this is a sci-fi battle royale game based on multiple large ships type maps, rather than an open world.
+
+<br>
+
+### Analyzing current battle royales and more
+
+I started by looking into different battle royales such as Apex Legends, PUBG, Fortnite, Crucible, and Call of Duty: Warzone. I noticed that most of the UI in the games are quite boxed in rather than floating (Call of Duty was an exception). I was particularly interested in more diegetic aspects of the UI, as I saw that most battle royales had UI that was very functional but wasn't too aesthetically pleasing. I feel that Apex Legends does this great with their UI, creating a unified look among different widgets of the HUD and making it functional.
+
+As I started on the project, I kept in mind two things:
 
 <br>
 
@@ -68,11 +81,11 @@ I decided to focus on the shuttle system that Sheridan provides, which was cut d
 <col width="30%" />
 </colgroup>
   <tr>
-    <th align="center"><i class="fa fa-mobile-alt fa-5x"></i><br></th>
     <th></th>
-    <th align="center"><i class="fa fa-bus-alt fa-5x"></i><br></th>
+    <th align="center"><i class="fas fa-paint-brush fa-5x"></i><br></th>
     <th></th>
-    <th align="center"><i class="fa fa-users fa-5x"></i><br></th>
+    <th align="center"><i class="fas fa-object-group fa-5x"></i><br></th>
+    <th></th>
   </tr>
   <tr>
     <td>&nbsp;</td>
@@ -90,161 +103,71 @@ I decided to focus on the shuttle system that Sheridan provides, which was cut d
   </tr>
 </table>
 
-<br>    
+<br>     
 
-### The solution
-
-The idea was to integrate the shuttle and OneCard system that Sheridan uses (similarly to a card payment system) into an existing application called Transit. Eventually, the concept was to expand it to other school’s shuttle/payment systems so that students have the best of both worlds.
-
-![image]({{site.baseurl}}/assets/img/tr-ft-2.png)
-
-Why integrate rather than creating something new? I feel Transit is a perfect example of solving majority of issues that commuters face today, which is providing live transit data to the user. I figured, instead of reinventing the wheel, why not create a new function for an existing product.
+My goals for this project was to create a design that would work in a battle royale, while keeping the widgets functional and easy to read. The idea is to keep things easy for the player, so they can easily identify certain areas of the UI quickly (in battle). Other goals that I had in mind was to experiment with certain aspects such as the party and hp/ammo widgets.
 
 <br>
 
-### The research
+## Experimenting with FUI
 
-I used the goal-directed design process or the user centered design process (as commonly known). It involved different steps from research to the final product:
+Since this was my first time delving into futuristic UI, I took a deeper look on how it is used in different forms of media, such as movies. As previously mentioned before, I noticed that FUI is generally unusable from a UX content and used as a visual aid than anything. I looked at a few movies such as Star Wars (the recent movies), Bladerunner 2049, and Pacific Rim (both movies), and saw that the FUI used is quite complicated.
 
-![image]({{site.baseurl}}/assets/img/tr-ft-10.png)
+[![1](/images/posts/brui1.png)](https://wilsontruong.com/images/posts/brui1.png)
+<i style="font-size:12px;">Version 1 of HUD</i>
 
-Research was done through interviews, since this project was small - I interviewed two students: One first year, who uses the shuttle and the other, a second-year student who takes Oakville Transit. The research provided a few things:
+My first version of the mock-up was based on a boxed look, I wanted to keep things clear and simple, although this didn’t look particularly great. It seemed to be more of a “frame” around a box, rather than a FUI HUD. I shifted gears and went for more of a “helmet” HUD style look and using lines to depict certain areas of the UI. I used radials to show the health and ammo bar, as a visual aid plus using numbers instead of bars, so that the player can read the information quickly and accurately.
 
-<br>
+[![2](/images/posts/brui2.png)](https://wilsontruong.com/images/posts/brui2.png)
+<i style="font-size:12px;">Version 2 (line art only) of HUD</i>
 
-<table>
-<colgroup>
-<col width="30%" />
-<col width="5%" />
-<col width="30%" />
-<col width="5%" />
-<col width="30%" />
-</colgroup>
-  <tr>
-    <th align="center"><i class="fa fa-heart fa-5x"></i><br></th>
-    <th></th>
-    <th align="center"><i class="fa fa-meh fa-5x"></i><br></th>
-    <th></th>
-    <th align="center"><i class="fa fa-arrows-alt-h fa-5x"></i><br></th>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td align="center" style="vertical-align: top;">A “love-hate” relationship with the service</td>
-    <td></td>
-    <td align="center" style="vertical-align: top;">Dissatisfaction with the service</td>
-    <td></td>
-    <td align="center" style="vertical-align: top;">Variability of the service</td>
-  </tr>
-</table>
+I was very inspired by Lone Echo, a VR game that I've played and loved. I really liked the overall aesthetic and the small details in the UI around the ship plus how it looked. I experimented with different ideas, but this proved a little bit challenging. My iterations involved simulating a helmet HUD, where information is primarily on the sides and the bottom. I realized that this initial design was a little too big, as it looked like it took too much space (since the UI had a lot of information). Later on, I realized that it was crowded because of the widgets that I've included.
 
-<br>   
+[![3](/images/posts/brui3.png)](https://wilsontruong.com/images/posts/brui3.png)
+<i style="font-size:12px;">Version 3 of HUD</i>
 
-Although, not everything was frustration as the interviews showed that they were happy that the service was there rather than not. Additional research was done in the form of observation, which was taking the shuttle and experiencing the commute - Which my conclusions were inline with the student who I interviewed.
-From the research, personas were created and then scenarios (below) to simulate the functionality of the integration. Two personas that were created were:
+After a few more experimentations, I softened the corners of the lines to give it more of a rounded angular look and minimized the overall UI by 10% - 15% so that it didn't take up too much space. I was satisfied at this point, but I felt that the empty space in the bottom corners can be used in a better way, so back to the drawing board!
+
+[![4](/images/posts/brui4.png)](https://wilsontruong.com/images/posts/brui4.png)
+<i style="font-size:12px;">Version 4 of HUD</i>
 
 <br>
 
-<table>
-  <colgroup>
-<col width="15%" />
-<col width="25%" />
-<col width="20%" />
-<col width="25%" />
-<col width="15%" />
-</colgroup>
-  <tr>
-    <th align="center"></th>
-    <th align="center"><i class="fa fa-user-tie fa-5x"></i></th>
-    <th align="center"></th>
-    <th align="center"><i class="fa fa-user-ninja fa-5x"></i></th>
-    <th align="center"></th>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <th align="center"></th>
-    <td align="center" style="vertical-align: top;">Person A:<br> I take city transit!</td>
-    <td align="center"></td>
-    <td align="center" style="vertical-align: top;">Person B:<br> I take the Sheridan shuttle!</td>
-    <td align="center"></td>
-  </tr>
-</table>
+### The final product
 
-<br>    
+Overall, I'm very happy with the result. I overhauled the look by maximizing the space as much as possible, which involved moving to a horizonal look rather than diagonal (inverted triangle) from the previous iterations. After getting feedback from a critique, I corrected some changes such as adjusting the colour opacity to make some widgets more consistent with the overall HUD. Plus, adding a few effects such as chromatic aberration and an outer glow to soften things up. 
 
-Using the personas as a starting point, design requirements were created to understand what the user wants. After wards, scenarios were created to visualize how a user would use the function in a “perfect world”. Then it was off to create the wireframes and prototype.
+My sketches/initial concepts...
+[![5](/images/posts/brui8.png)](https://wilsontruong.com/images/posts/brui8.png)
 
-![image]({{site.baseurl}}/assets/img/tr-ft-3.png)
-<i style="font-size:12px;">First Persona</i>
-
+Final mocks:
+[![6](/images/posts/brui5.png)](https://wilsontruong.com/images/posts/brui5.png)
 <br>
-
-![image]({{site.baseurl}}/assets/img/tr-ft-4.png)
-<i style="font-size:12px;">Second Persona</i>
-
+[![7](/images/posts/brui6.png)](https://wilsontruong.com/images/posts/brui6.png)
 <br>
+[![8](/images/posts/brui7.png)](https://wilsontruong.com/images/posts/brui7.png)
 
-Further design research was completed such as Behavioural Attributes Mapping and framework sketches to determine user flow.
+Motion concepts:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HDQtAMnUiFY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br>
-
-![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
-<i style="font-size:12px;">Behavioural Attributes Map</i>
-
-<br>
-
-![image]({{site.baseurl}}/assets/img/tr-ft-6.png)
-<i style="font-size:12px;">Framework (sketches) for mobile app</i>
-
-<br>
-
-![image]({{site.baseurl}}/assets/img/tr-ft-7.png)
-<i style="font-size:12px;">Framework (sketches) for smartwatch app</i>
-
-<br>
-
-### The solution
-
-My solution was to integrate the shuttle service right into Transit. I felt rather than trying to force a solution on to an existing transit system with its own problems, I focused on the shuttle experience. By integrating Sheridan’s shuttle system and payment system into Transit, the application (Transit) can be used both ways: for students who commute using a city’s transit system and for students who use the school’s transportation system. 
-
-![image]({{site.baseurl}}/assets/img/tr-ft-8.png)
-
-But wait! Why these functions? My goal was to create convenience for the student. To reload an OneCard with funds, the student has to login to the website to reload. This is rather annoying since the student would either: need a computer or do it on the browser on their phone. Purchasing tickets is in a similar fashion, why make things hard when you can do it on your phone with ease?
-
-![image]({{site.baseurl}}/assets/img/tr-ft-9.png)
-
-The final prototype included an Apple Watch app as I wanted to expand the functionality into the wearables area. 
-
-<a href="https://xd.adobe.com/view/41d5c0b7-eda9-420f-4deb-c0afe5c24466-37e4/">Adobe XD link for mobile app</a>
-
-<a href="https://xd.adobe.com/view/53789c02-e1b8-40ae-5e5f-6407566c4d51-2549/">Adobe XD link for AW app</a>
+I was very happy on how the motion concepts turned out; I furthered my understanding of keyframes in After Effects and managed to create several things like animating the radials and creating a boot up sequence.
 
 <br>
 
 ### The take aways
-Throughout this project, the goal was to provide a solution to an existing problem through using the goal-oriented design process (or user centered design is commonly known as). It was fun and I used the skills that I gained from my previous recruitment experiences in interviewing and gathering/analyzing data. There were a few things that I learned through this project:
 
-> Research, research, and research.
+In the end, I achieved what I wanted to do: which was creating a HUD that was functional and visually appealing. Delving into FUI was fun and I found that sometimes making it simple really helps as some FUI I've seen can be very complicated. A few things that I've learned through this was:
 
-Research is important and I realize that it’s something that is needed to first understand the user and second, what the user wants. My goal was to create a solution that a student can use if he/she is using the shuttle. Although, it’s quite niche, I felt it was necessary due to the overall issues with the current system
+> Critiques can be scary sometimes
 
-> Being unique
+This was the first time that I got a critique from someone in the industry, rather than my peers. I was a bit nervous, but I learned quite a lot from the critique that I got! Even though it was a bit scary (I was super nervous), it was nothing but positive and constructive feedback, which I took to improve my piece further.
 
-I feel with this topic of transit, there are multiple solutions out there from Uber to Google Maps. All of these popular apps these days, are quite robust with it’s functionality and what it offers to the user regarding the commute to work or school. I learned it’s hard, to create something when many options exist and understanding the target market plus a USP (unique selling proposition) is important!
+> Motion is (still) king
 
-> The user is king
+Enforcing my designs with motion was something I finally understood, when I worked on my mock-ups from the Ubisoft NEXT challenge. I didn’t really focus on motion too much as I put it as a second priority than anything. In this project, the realized the importance of using motion to show what your UI is supposed to do and how you envision it.
 
-Through this project, I understood the importance of the user and what they want. I learned how to use the data that I got from interviews and translated it into what the user needs. It was hard because there’s just so much information, even with two interviews. I wanted to add more but keeping it simple was the best way to go.
+> Practice makes perfect!
+
+Using After Effects was a bit daunting but after a bit of practice and tutorials, I started to understand how keyframes worked and how to use different effects to my advantage. I learned quite a bit of After Effects and even though I’m still a novice to it, I’m constantly learning new things every time that I use the program!
 
 <br>
