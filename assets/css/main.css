@@ -849,27 +849,30 @@ table {
   background-color: transparent;
   width: 100%;
   text-align: left;
-  vertical-align: top;
   border-collapse: collapse;
 }
 
 table td, table.blueTable th {
   border: none;
   padding: 3px 2px;
+    vertical-align: top;
 }
 
 table tbody td {
   font-size: 16px;
+     vertical-align: top;
 }
 
 table thead {
   background: none;
+     vertical-align: top;
 }
 
 table thead th {
   font-size: 16px;
   font-weight: 500;
   color: #000;
+     vertical-align: top;
 }
 
 table tfoot {
@@ -877,10 +880,12 @@ table tfoot {
   font-weight: 500;
   color: #fff;
   background: none;
+     vertical-align: top;
 }
 
 table tfoot td {
   font-size: 16px;
+     vertical-align: top;
 }
 
 .wrapper {
