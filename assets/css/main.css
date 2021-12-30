@@ -849,6 +849,7 @@ table {
   background-color: transparent;
   width: 100%;
   text-align: left;
+  vertical-align: top;
   border-collapse: collapse;
 }
 
