@@ -60,18 +60,24 @@ I decided to focus on the shuttle system that Sheridan provides, which was cut d
 
 <table>
 <colgroup>
-<col width="33.33%" />
-<col width="33.33%" />
-<col width="33.33%" />
+<col width="30%" />
+<col width="5%" />
+<col width="30%" />
+<col width="5%" />
+<col width="30%" />
 </colgroup>
   <tr>
-    <th align="center"><i class="fa fa-mobile-alt"></i></th>
-    <th align="center"><i class="fa fa-bus-alt"></i></th>
-    <th align="center"><i class="fa fa-users"></i></th>
+    <th align="center"><i class="fa fa-mobile-alt fa-2x"></i></th>
+    <th></th>
+    <th align="center"><i class="fa fa-bus-alt fa-2x"></i></th>
+    <th></th>
+    <th align="center"><i class="fa fa-users fa-2x"></i></th>
   </tr>
   <tr>
     <td align="center">A lot of solutions that cater to commuters</td>
+    <td></td>
     <td align="center">Personal experiences with the shuttle were not so great </td>
+    <td></td>
     <td align="center">Creating something truly unique just for Sheridan students</td>
   </tr>
 </table>
