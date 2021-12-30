@@ -861,10 +861,6 @@ table tbody td {
   font-size: 13px;
 }
 
-table tr:nth-child(even) {
-  background: #adbecc;
-}
-
 table thead {
   background: none;
 }
@@ -875,20 +871,11 @@ table thead th {
   color: #000;
 }
 
-table thead th:first-child {
-  border-left: none;
-}
-
 table tfoot {
   font-size: 14px;
-  font-weight: bold;
+  font-weight: 500;
   color: #fff;
-  background: #d0e4f5;
-  background: -webkit-gradient(linear, left top, left bottom, from(#dcebf7), color-stop(66%, #d4e6f6), to(#D0E4F5));
-  background: -webkit-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
-  background: -o-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
-  background: linear-gradient(to bottom, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
-  border-top: 2px solid #444;
+  background: none;
 }
 
 table tfoot td {
