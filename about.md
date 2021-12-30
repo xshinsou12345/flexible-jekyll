@@ -2,7 +2,6 @@
 layout: about
 title: About Me
 permalink: /about/
-description: About Me!
 img: ab-1.jpg
 ---
 
