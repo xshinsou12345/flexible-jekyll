@@ -74,6 +74,13 @@ I decided to focus on the shuttle system that Sheridan provides, which was cut d
     <th align="center"><i class="fa fa-users fa-5x"></i><br></th>
   </tr>
   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">A lot of solutions that cater to commuters</td>
     <td></td>
     <td align="center">Personal experiences with the shuttle were not so great </td>
