@@ -159,16 +159,23 @@ From the research, personas were created and then scenarios (below) to simulate 
 </colgroup>
   <tr>
     <th align="center"></th>
-    <th align="center"><i class="fa fa-user-tie"></i></th>
+    <th align="center"><i class="fa fa-user-tie fa-5x"></i></th>
     <th align="center"></th>
-    <th align="center"><i class="fa fa-user-ninja"></i></th>
+    <th align="center"><i class="fa fa-user-ninja fa-5x"></i></th>
     <th align="center"></th>
   </tr>
   <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
     <th align="center"></th>
-    <td align="center">Person A:<br> I take city transit!</td>
+    <td align="center" style="vertical-align: top;">Person A:<br> I take city transit!</td>
     <td align="center"></td>
-    <td align="center">Person B:<br> I take the Sheridan shuttle!</td>
+    <td align="center" style="vertical-align: top;">Person B:<br> I take the Sheridan shuttle!</td>
     <td align="center"></td>
   </tr>
 </table>
