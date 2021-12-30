@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: post
+title: About
 image: '/images/posts/aboutme.jpg'
 permalink: /about/
 ---
