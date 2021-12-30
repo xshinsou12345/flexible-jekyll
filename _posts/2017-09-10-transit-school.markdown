@@ -8,14 +8,6 @@ tags: [UX, UI, User Research, Visual Design]
 ---
 <br>
 
-<center><button class='c-btn c-btn--small' onclick="window.location.href = 'https://xd.adobe.com/view/41d5c0b7-eda9-420f-4deb-c0afe5c24466-37e4/';">Click for Working Prototype</button></center>
-
-<br>
-
-<center><b>Please note that the design of the app (not the integration) was adapted from the real Transit app, credit goes to the developers of the Transit app for the design</b></center>
-
-<br>
-
 <table>
 <thead>
 <tr align="left">
