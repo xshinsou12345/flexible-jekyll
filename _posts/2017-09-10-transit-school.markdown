@@ -20,29 +20,34 @@ tags: [UX, UI, User Research, Visual Design]
 <colgroup>
 <col width="40%" />
 <col width="5%" />
-<col width="55%" />
+<col width="40%" />
+<col width="5%" />
+<col width="40%" />
 </colgroup>
 <thead>
 <tr align="left">
-<th>Project details</th>
+<th>Overview</th>
 <th></th>
-<th>The Challenge</th>
+<th>Challenge</th>
+<th></th>
+<th>Role</th>
 </tr>
 </thead>
 <tbody>
+
 <tr>
-<td markdown="span"><b>Time:</b> 4 months (Fall 2019 semester)</td>
+<td markdown="span">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce venenatis nec sem eget lobortis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In dictum faucibus odio, vel fermentum odio.</td>
+
 <td></td>
-<td rowspan="3">How can I make commuting easier for students?</td>
-</tr>
-<tr>
-<td markdown="span"><b>Role:</b> Research, analysis, <br>UX, UI and prototyping</td>
+
+<td markdown="span">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce venenatis nec sem eget lobortis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In dictum faucibus odio, vel fermentum odio.</td>
+
 <td></td>
+
+<td markdown="span">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce venenatis nec sem eget lobortis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In dictum faucibus odio, vel fermentum odio.</td>
+
 </tr>
-<tr>
-<td markdown="span"><b>Team:</b> Me, myself, and I</td>
-<td></td>
-</tr>
+
 </tbody>
 </table>
 
