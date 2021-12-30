@@ -67,11 +67,11 @@ I decided to focus on the shuttle system that Sheridan provides, which was cut d
 <col width="30%" />
 </colgroup>
   <tr>
-    <th align="center"><i class="fa fa-mobile-alt fa-5x"></i></th>
+    <th align="center"><i class="fa fa-mobile-alt fa-5x"></i><br></th>
     <th></th>
-    <th align="center"><i class="fa fa-bus-alt fa-5x"></i></th>
+    <th align="center"><i class="fa fa-bus-alt fa-5x"></i><br></th>
     <th></th>
-    <th align="center"><i class="fa fa-users fa-5x"></i></th>
+    <th align="center"><i class="fa fa-users fa-5x"></i><br></th>
   </tr>
   <tr>
     <td align="center">A lot of solutions that cater to commuters</td>
