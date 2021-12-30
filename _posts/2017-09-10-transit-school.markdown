@@ -46,7 +46,7 @@ tags: [UX, UI, User Research, Visual Design]
 
 <br>
 
-<hr>
+-
 
 <br>
 
@@ -197,4 +197,4 @@ Through this project, I understood the importance of the user and what they want
 
 <br>
 
-<hr>
+-
