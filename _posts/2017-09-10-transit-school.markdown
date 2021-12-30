@@ -17,13 +17,6 @@ tags: [UX, UI, User Research, Visual Design]
 <br>
 
 <table>
-<colgroup>
-<col width="40%" />
-<col width="5%" />
-<col width="40%" />
-<col width="5%" />
-<col width="40%" />
-</colgroup>
 <thead>
 <tr align="left">
 <th>Overview</th>
@@ -33,6 +26,7 @@ tags: [UX, UI, User Research, Visual Design]
 <th>Role</th>
 </tr>
 </thead>
+  
 <tbody>
 
 <tr>
