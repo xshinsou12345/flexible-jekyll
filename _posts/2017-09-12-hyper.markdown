@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hyperion
-date: 2017-09-12 00:00:00 +0300
+permalink: /hyperui/
 description: UI Concept
 img: hy-ft-1.png # Add image post (optional)
 tags: [Programming, Learn] # add tag
