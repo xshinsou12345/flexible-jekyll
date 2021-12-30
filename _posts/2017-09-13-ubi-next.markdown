@@ -30,15 +30,15 @@ tags: [UX, UI, Visual Design, Game Development] # add tag
 <tbody>
 
 <tr>
-<td markdown="span" style="vertical-align: top; text-align: left;">This project was an exploration into human centered design through understanding different design research methods and to experience the design process using a real problem. The design challenge for this project was to create a digital experience or redesign a current digital app, to enhance the experience of commuting for Sheridan Students.</td>
+<td markdown="span" style="vertical-align: top; text-align: left;">This project was an exploration into game UI design and also applying what I've learned in my courses into this competition. This competition was to modernize a UI from an existing Ubisoft IP, which followed a brief and criteria on what the judges were looking for. The final deliverables were given in a form of a UI style guide, UI mock-ups, and also UI animations. The overall project was placed 2nd place in the competition.</td>
 
 <td></td>
 
-<td markdown="span" style="vertical-align: top; text-align: left;">Commuting to school is a large part of a student's life and often not, students use up 1-2 hours (or even more) everyday in their lives to get to their classes. As using transit can be a bit dreadful and boring, how might we enhance the experience of commuting via transit to Sheridan Students?</td>
+<td markdown="span" style="vertical-align: top; text-align: left;">UI can be challenging especially in video games as it provides the user with something to interact with and to read information from. Although, older games follow old design practices and are often not up to speed with modern design practices. With this in mind, how might we modernize a UI from a game that was developed in 2013, while keeping in mind accessibility and design?</td>
 
 <td></td>
 
-<td markdown="span" style="vertical-align: top; text-align: left;">My role for this project encompasses everything from UX, UI, User Research, and Visual Design. This project took four months starting in September 2019.</td>
+<td markdown="span" style="vertical-align: top; text-align: left;">This project was a individiual competition (no teams allowed). I worked on all aspects of the UI from start to finish, in addition to the animations in After Effects. A total of 3-4 months were given to complete the piece of submission, which included a mid-competition review from the judges.</td>
 
 </tr>
 
@@ -51,11 +51,9 @@ tags: [UX, UI, Visual Design, Game Development] # add tag
 
 <br>
 
-### Commuting, the bane of a student's existence
+### Designing a game UI from scratch?!
 
-I think as students, majority of our time is mostly commuting back and forth to classes. At times, it is stressing because of its various issues like rush hour, overcrowding, delays, and other factors that would delay us from getting to class on time. For this project, the problem I had to solve was to create a solution to better the commute experience. We were encouraged to create anything from a physical product or digital.
-
-I decided to focus on the shuttle system that Sheridan provides, which was cut down to just two campuses in the recent year due to funding. My reason for focusing on Sheridan’s shuttle system was a few factors: 
+One word that can describe this entire project/challenge is, passion. I love video games and pay a lot of attention to the UI/UX. The aspiration of working in UI/UX at a top AAA studio like Ubisoft is a dream and a career goal. This challenge was centered around creating a UI style guide and mock-ups of a specific game from Ubisoft Toronto. Two were given, Splinter Cell: Blacklist and FarCry 4. I chose Splinter Cell as my strengths were in that area of genre. At first, I thought it would be easy, but I had to pay attention to a few things:
 
 <br>
 
@@ -68,11 +66,11 @@ I decided to focus on the shuttle system that Sheridan provides, which was cut d
 <col width="30%" />
 </colgroup>
   <tr>
-    <th align="center"><i class="fa fa-mobile-alt fa-5x"></i><br></th>
+    <th align="center"><i class="fas fa-universal-access fa-5x"></i><br></th>
     <th></th>
-    <th align="center"><i class="fa fa-bus-alt fa-5x"></i><br></th>
+    <th align="center"><i class="fas fa-eye fa-5x"></i><br></th>
     <th></th>
-    <th align="center"><i class="fa fa-users fa-5x"></i><br></th>
+    <th align="center"><i class="fas fa-newspaper fa-5x"></i><br></th>
   </tr>
   <tr>
     <td>&nbsp;</td>
@@ -82,71 +80,23 @@ I decided to focus on the shuttle system that Sheridan provides, which was cut d
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td align="center" style="vertical-align: top;">A lot of solutions that cater to commuters</td>
+    <td align="center" style="vertical-align: top;">Accessibility, making it legible for colour blindness and near-sightedness</td>
     <td></td>
-    <td align="center" style="vertical-align: top;">Personal experiences with the shuttle were not so great </td>
+    <td align="center" style="vertical-align: top;">Readability, easy to follow and navigate the menu</td>
     <td></td>
-    <td align="center" style="vertical-align: top;">Creating something truly unique just for Sheridan students</td>
+    <td align="center" style="vertical-align: top;">Design, ensuring that the type, layout, and visuals are in-line with branding</td>
   </tr>
 </table>
 
 <br>    
 
-### The solution
-
-The idea was to integrate the shuttle and OneCard system that Sheridan uses (similarly to a card payment system) into an existing application called Transit. Eventually, the concept was to expand it to other school’s shuttle/payment systems so that students have the best of both worlds.
-
-![image]({{site.baseurl}}/assets/img/tr-ft-2.png)
-
-Why integrate rather than creating something new? I feel Transit is a perfect example of solving majority of issues that commuters face today, which is providing live transit data to the user. I figured, instead of reinventing the wheel, why not create a new function for an existing product.
+I had to balance this with my school and club work, so it was fun balancing all of that and taking the time to work on this. I was excited and raving to work on it during the weekends and whenever I had the time.
 
 <br>
 
-### The research
+### The obstacles
 
-I used the goal-directed design process or the user centered design process (as commonly known). It involved different steps from research to the final product:
-
-![image]({{site.baseurl}}/assets/img/tr-ft-10.png)
-
-Research was done through interviews, since this project was small - I interviewed two students: One first year, who uses the shuttle and the other, a second-year student who takes Oakville Transit. The research provided a few things:
-
-<br>
-
-<table>
-<colgroup>
-<col width="30%" />
-<col width="5%" />
-<col width="30%" />
-<col width="5%" />
-<col width="30%" />
-</colgroup>
-  <tr>
-    <th align="center"><i class="fa fa-heart fa-5x"></i><br></th>
-    <th></th>
-    <th align="center"><i class="fa fa-meh fa-5x"></i><br></th>
-    <th></th>
-    <th align="center"><i class="fa fa-arrows-alt-h fa-5x"></i><br></th>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td align="center" style="vertical-align: top;">A “love-hate” relationship with the service</td>
-    <td></td>
-    <td align="center" style="vertical-align: top;">Dissatisfaction with the service</td>
-    <td></td>
-    <td align="center" style="vertical-align: top;">Variability of the service</td>
-  </tr>
-</table>
-
-<br>   
-
-Although, not everything was frustration as the interviews showed that they were happy that the service was there rather than not. Additional research was done in the form of observation, which was taking the shuttle and experiencing the commute - Which my conclusions were inline with the student who I interviewed.
-From the research, personas were created and then scenarios (below) to simulate the functionality of the integration. Two personas that were created were:
+This challenge was insanely tough but one thing that got me through the various challenges was iteration and taking that step back to think about the overall player UX and design. Without a doubt, I encountered two major challenging things:
 
 <br>
 
@@ -160,9 +110,9 @@ From the research, personas were created and then scenarios (below) to simulate 
 </colgroup>
   <tr>
     <th align="center"></th>
-    <th align="center"><i class="fa fa-user-tie fa-5x"></i></th>
+    <th align="center"><i class="fas fa-balance-scale fa-5x"></i></th>
     <th align="center"></th>
-    <th align="center"><i class="fa fa-user-ninja fa-5x"></i></th>
+    <th align="center"><i class="fas fa-boxes fa-5x"></i></th>
     <th align="center"></th>
   </tr>
   <tr>
@@ -174,77 +124,129 @@ From the research, personas were created and then scenarios (below) to simulate 
   </tr>
   <tr>
     <th align="center"></th>
-    <td align="center" style="vertical-align: top;">Person A:<br> I take city transit!</td>
+    <td align="center" style="vertical-align: top;">Balancing accessibility with design</td>
     <td align="center"></td>
-    <td align="center" style="vertical-align: top;">Person B:<br> I take the Sheridan shuttle!</td>
+    <td align="center" style="vertical-align: top;">UX and information hierarchy</td>
     <td align="center"></td>
   </tr>
 </table>
 
-<br>    
+<br>     
+    
+Those challenges made me think how players can interact with a menu or HUD. I went with a typographic and simplistic look, to not overload the player's mind so that they can get into the menu and instantly know how to use it. Keeping it simple was the core concept and one of the major pillars for my design, as I see it as a trend for next gen game UI.
 
-Using the personas as a starting point, design requirements were created to understand what the user wants. After wards, scenarios were created to visualize how a user would use the function in a “perfect world”. Then it was off to create the wireframes and prototype.
+[![1](/images/posts/ubi13.jpg)](https://wilsontruong.com/images/posts/ubi13.jpg)
+<i style="font-size:12px;">Final HUD Mockup</i>
 
-![image]({{site.baseurl}}/assets/img/tr-ft-3.png)
-<i style="font-size:12px;">First Persona</i>
-
-<br>
-
-![image]({{site.baseurl}}/assets/img/tr-ft-4.png)
-<i style="font-size:12px;">Second Persona</i>
+Accessibility was a critical thing for me to take into consideration (not only it was in the brief), as it was something important to me as a designer and to show that I understand how to design something that is accessible. To combat this, I implemented into my designs:
 
 <br>
 
-Further design research was completed such as Behavioural Attributes Mapping and framework sketches to determine user flow.
+<table>
+<colgroup>
+<col width="30%" />
+<col width="5%" />
+<col width="30%" />
+<col width="5%" />
+<col width="30%" />
+</colgroup>
+  <tr>
+    <th align="center"><i class="fas fa-language fa-5x"></i><br></th>
+    <th></th>
+    <th align="center"><i class="fas fa-text-height fa-5x"></i><br></th>
+    <th></th>
+    <th align="center"><i class="fas fa-star-half-alt fa-5x"></i><br></th>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: top;">Type with icons, to enable those who are colour blind to understand layers of information without colour</td>
+    <td></td>
+    <td align="center" style="vertical-align: top;">Large text (more than 18px), such as headers to ensure that players can quickly read the menu from a distance</td>
+    <td></td>
+    <td align="center" style="vertical-align: top;">Using contrast to make text and icons be clear to those who are visually impaired</td>
+  </tr>
+</table>
+
+<br>  
+
+I constantly referred to the Association of Registered Graphic Designer's guide to 
+<a href="https://www.rgd.ca/resources/accessibility/access">accessibility practices</a>, which was a great resource to refer to when designing my mocks.
+
+[![2](/images/posts/ubi15.png)](https://wilsontruong.com/images/posts/ubi15.png)
+<i style="font-size:12px;">The Menu UI with simulated protanopia type colour blindness</i>
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
-<i style="font-size:12px;">Behavioural Attributes Map</i>
+### The iterations... So many of them
+
+At first, my initial designs were a bit bold in design and use a grid system. I was heavily inspired by how The Division 2 organized its information and the overall design. As I thought more and more about the overall theme of Splinter Cell: Blacklist, I instantly knew that it will not work. It is not a looter-shooter, it is a stealth action-adventure game.
+
+[![3](/images/posts/ubi20.png)](https://wilsontruong.com/images/posts/ubi20.png)
+<i style="font-size:12px;">Version 1 of menu UI</i>
+
+[![4](/images/posts/ubi19.png)](https://wilsontruong.com/images/posts/ubi19.png)
+<i style="font-size:12px;">Version 1 of HUD</i>
+
+[![5](/images/posts/ubi16.jpg)](https://wilsontruong.com/images/posts/ubi16.jpg)
+<i style="font-size:12px;">Version 2 of menu UI</i>
+
+The constant going back and taking a step back to think about the player and the overall picture, really helped me to visualize how it would be used in an actual environment. I looked deeper into current and older titles like Astral Chain, Division 2, Death Stranding, Star Wars Jedi: Fallen Order, Control, Horizon Zero Dawn, and The Last of Us. I realized that as a gamer, complex menus are not fun, something that is intuitive and easy to navigate is the key.
+
+[![6](/images/posts/ubi17.jpg)](https://wilsontruong.com/images/posts/ubi17.jpg)
+<i style="font-size:12px;">Version 3 of menu UI</i>
+
+I went through different fonts; my initial picks were display fonts that were geometric because I wanted to show a technical feel. I eventually gravitated to san-serif fonts as it was more modern and in-line with next-gen games. I believed that using san-serif fonts were better from an accessibility standpoint as display fonts can be often hard to read, depending on the person. I used two different fonts: FS Industrie and DIN Pro, these two fonts were perfect as they were clean and geometric.
+
+[![7](/images/posts/ubi14.jpg)](https://wilsontruong.com/images/posts/ubi14.jpg)
+<i style="font-size:12px;">Final version of menu UI</i>
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/tr-ft-6.png)
-<i style="font-size:12px;">Framework (sketches) for mobile app</i>
+### The final product
 
+The final design was a huge departure from what I initially sketched out on paper. As time went on and taking the feedback from the mid-point review, I instantly applied it and changed directions. The result was something that I truly felt was my best work. An UI that is modern, fresh, and easily understood by anyone and everyone. An UI that can be taken for a remaster of a Splinter Cell game in 2020.
+
+My sketches/initial concepts...
+[![8](/images/posts/ubi18.png)](https://wilsontruong.com/images/posts/ubi18.png)
+
+Final mocks (HUD + Menu):
+[![9](/images/posts/ubi13.jpg)](https://wilsontruong.com/images/posts/ubi13.jpg)
 <br>
-
-![image]({{site.baseurl}}/assets/img/tr-ft-7.png)
-<i style="font-size:12px;">Framework (sketches) for smartwatch app</i>
-
+[![10](/images/posts/Critical-Hostile.jpg)](https://wilsontruong.com/images/posts/Critical-Hostile.jpg)
 <br>
+[![11](/images/posts/ubi14.jpg)](https://wilsontruong.com/images/posts/ubi14.jpg)
+<br>
+[![12](/images/posts/Equipped.jpg)](https://wilsontruong.com/images/posts/Equipped.jpg)
+<br>
+[![13](/images/posts/Purchase.jpg)](https://wilsontruong.com/images/posts/Purchase.jpg)
+<br>
+[![14](/images/posts/Unavailable.jpg)](https://wilsontruong.com/images/posts/Unavailable.jpg)
 
-### The solution
-
-My solution was to integrate the shuttle service right into Transit. I felt rather than trying to force a solution on to an existing transit system with its own problems, I focused on the shuttle experience. By integrating Sheridan’s shuttle system and payment system into Transit, the application (Transit) can be used both ways: for students who commute using a city’s transit system and for students who use the school’s transportation system. 
-
-![image]({{site.baseurl}}/assets/img/tr-ft-8.png)
-
-But wait! Why these functions? My goal was to create convenience for the student. To reload an OneCard with funds, the student has to login to the website to reload. This is rather annoying since the student would either: need a computer or do it on the browser on their phone. Purchasing tickets is in a similar fashion, why make things hard when you can do it on your phone with ease?
-
-![image]({{site.baseurl}}/assets/img/tr-ft-9.png)
-
-The final prototype included an Apple Watch app as I wanted to expand the functionality into the wearables area. 
-
-<a href="https://xd.adobe.com/view/41d5c0b7-eda9-420f-4deb-c0afe5c24466-37e4/">Adobe XD link for mobile app</a>
-
-<a href="https://xd.adobe.com/view/53789c02-e1b8-40ae-5e5f-6407566c4d51-2549/">Adobe XD link for AW app</a>
+Motion concepts:
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/_leTSX09NV0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <br>
 
 ### The take aways
-Throughout this project, the goal was to provide a solution to an existing problem through using the goal-oriented design process (or user centered design is commonly known as). It was fun and I used the skills that I gained from my previous recruitment experiences in interviewing and gathering/analyzing data. There were a few things that I learned through this project:
 
-> Research, research, and research.
+Balancing with my school and club work, I felt that this challenge was a test of my abilities and it really was. I enjoyed every second of idealizing and creating my mocks. The realization that working in UI/UX in games was beginning to come true. Throughout the process, I learned a lot from the industry, the judges, and myself. From this challenge, my take aways were:
 
-Research is important and I realize that it’s something that is needed to first understand the user and second, what the user wants. My goal was to create a solution that a student can use if he/she is using the shuttle. Although, it’s quite niche, I felt it was necessary due to the overall issues with the current system
+> Accessibility is important!
 
-> Being unique
+This challenge taught me the importance of designing an UI to be accessible. I didn't realize how much factors that I needed to take into consideration, from colour to contrast to even the type. It gave me an insight to how a game designer would think to make their UI or game more accessible and gives me a large appreciation for game developers who take the time and effort to implement such options (looking at you Ubisoft and Naughty Dog).
 
-I feel with this topic of transit, there are multiple solutions out there from Uber to Google Maps. All of these popular apps these days, are quite robust with it’s functionality and what it offers to the user regarding the commute to work or school. I learned it’s hard, to create something when many options exist and understanding the target market plus a USP (unique selling proposition) is important!
+> Motion is king
 
-> The user is king
+I learned that motion is key in my mock-ups, even though my motion concepts were rather weak in scope. It can be pushed further, and it was not something I focused too much of due to my lack of skill in After Effects. Using motion to enforce certain feedback like purchasing or equipping provides the player a visual way of understanding "hey you got this new shiny weapon."
 
-Through this project, I understood the importance of the user and what they want. I learned how to use the data that I got from interviews and translated it into what the user needs. It was hard because there’s just so much information, even with two interviews. I wanted to add more but keeping it simple was the best way to go.
+> Believing in my strengths as a designer
+
+My strengths as a designer are typography and minimalism - I'm quite proud of what I designed for my mockups and I strongly believed that they were critical to the challenge. Although, I learned that it wasn't enough. Visuals are just as important. Motion too. Initially, I wasn't confident that I'll make it to the finals but as I remembered back to my roots as a designer - I utilized those strengths as my advantage.
 
 <br>
