@@ -845,8 +845,8 @@ pre code {
 }
 
 table {
-  border: 1px solid #aaa;
-  background-color: #eee;
+  border: none;
+  background-color: transparent;
   width: 100%;
   text-align: left;
   border-collapse: collapse;
