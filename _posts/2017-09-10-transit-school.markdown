@@ -2,7 +2,6 @@
 layout: post
 title: Transit School
 permalink: /transit/
-date: 2017-09-10 00:00:00 +0300
 description: App Project
 img: tr-ft-1.png
 tags: [UX, UI, User Research, Visual Design]
