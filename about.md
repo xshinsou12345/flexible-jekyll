@@ -9,11 +9,7 @@ img: ab-1.jpg
 
 <b>Hello!</b>
 
-I’m a fourth year, Interaction Design student at Sheridan College. I have a background in Human Resources/Recruitment (Campus) and have high interpersonal skills along with super-duper communication skills. I love working on UI design and figuring out how users can interact with it in different ways! Other than that... When I'm not working on design stuff, I gravitate towards video games, technology, looking at cats on Reddit, and Japan culture!
-
-<br>
-
-If you want to know how I got into design and my background in detail, take a look at this video! (It's around 5 minutes long): <a href="https://vimeo.com/475643912">Here!</a>
+I’m a fourth year, Interaction Design student at Sheridan College. I have a background in Human Resources/Recruitment (Campus) and have high interpersonal skills along with super-duper communication skills. I love working on UI design and figuring out how users can interact with it in different ways! Other than that... When I'm not working on design stuff, I gravitate towards video games, technology, looking at cats on Reddit, and Japan culture! If you want to know how I got into design and my background in detail, take a look at this video! (It's around 5 minutes long): <a href="https://vimeo.com/475643912">Here!</a>
 
 <br>
 
