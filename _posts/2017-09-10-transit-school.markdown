@@ -30,15 +30,15 @@ tags: [UX, UI, User Research, Visual Design]
 <tbody>
 
 <tr>
-<td markdown="span">This project was an exploration into human centered design through understanding different design research methods and to experience the design process using a real problem. The design challenge for this project was to create a digital experience or redesign a current digital app, to enhance the experience of commuting for Sheridan Students.</td>
+<td markdown="span" style="vertical-align: top; text-align: left;">This project was an exploration into human centered design through understanding different design research methods and to experience the design process using a real problem. The design challenge for this project was to create a digital experience or redesign a current digital app, to enhance the experience of commuting for Sheridan Students.</td>
 
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 
-<td markdown="span">Commuting to school is a large part of a student's life and often not, students use up 1-2 hours (or even more) everyday in their lives to get to their classes. As using transit can be a bit dreadful and boring, how might we enhance the experience of commuting via transit to Sheridan Students?</td>
+<td markdown="span" style="vertical-align: top; text-align: left;">Commuting to school is a large part of a student's life and often not, students use up 1-2 hours (or even more) everyday in their lives to get to their classes. As using transit can be a bit dreadful and boring, how might we enhance the experience of commuting via transit to Sheridan Students?</td>
 
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 
-<td markdown="span">My role for this project encompasses everything from UX, UI, User Research, and Visual Design. This project took four months starting in September 2019.</td>
+<td markdown="span" style="vertical-align: top; text-align: left;">My role for this project encompasses everything from UX, UI, User Research, and Visual Design. This project took four months starting in September 2019.</td>
 
 </tr>
 
