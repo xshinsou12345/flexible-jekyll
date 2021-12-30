@@ -7,13 +7,13 @@ img: ab-1.jpg
 
 <br>
 
-<b>Hello!</b>
+### Hello!
 
 I’m a fourth year, Interaction Design student at Sheridan College. I have a background in Human Resources/Recruitment (Campus) and have high interpersonal skills along with super-duper communication skills. I love working on UI design and figuring out how users can interact with it in different ways! Other than that... When I'm not working on design stuff, I gravitate towards video games, technology, looking at cats on Reddit, and Japan culture! If you want to know how I got into design and my background in detail, take a look at this video! (It's around 5 minutes long): <a href="https://vimeo.com/475643912">Here!</a>
 
 <br>
 
-<h1>My design philosophy</h1>
+### My design philosophy
 
 > Thinking about everyone and everyone in-between.
 
@@ -29,7 +29,7 @@ Being a designer means to me is the freedom to go beyond what everyone is doing.
 
 <br>
 
-<h1>I did stuff</h1>
+### I did stuff
 
 College + Activision/Adobe Creative Jam - Finalist
 
@@ -43,7 +43,7 @@ Adobe Creative Jam 2018, GTA Creative Schools - Third place
 
 <br>
 
-<h1>Want to chat?</h1>
+### Want to chat?
 I'm always looking for new opportunities! You can contact me via <a href="mailto:hello@wilsontruong.com?Subject=Hello!" target="_top">e-mail</a> or through <a href="https://www.linkedin.com/in/wiltruong/">LinkedIn</a>.
 
-<br><br>
+<br>
