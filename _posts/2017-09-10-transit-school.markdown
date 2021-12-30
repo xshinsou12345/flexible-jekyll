@@ -30,7 +30,7 @@ tags: [UX, UI, User Research, Visual Design]
 <tbody>
 
 <tr>
-<td markdown="span">This project was an exploration into human centered design through understanding different design research methods and to experience the design process using a real problem.</td>
+<td markdown="span">This project was an exploration into human centered design through understanding different design research methods and to experience the design process using a real problem. The design challenge for this project was to create a digital experience or redesign a current digital app, to enhance the experience of commuting for Sheridan Students.</td>
 
 <td></td>
 
