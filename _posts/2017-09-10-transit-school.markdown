@@ -74,18 +74,18 @@ I decided to focus on the shuttle system that Sheridan provides, which was cut d
     <th align="center"><i class="fa fa-users fa-5x"></i><br></th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td align="center">A lot of solutions that cater to commuters</td>
+    <td align="center" style="vertical-align: top; text-align: left;">A lot of solutions that cater to commuters</td>
     <td></td>
-    <td align="center">Personal experiences with the shuttle were not so great </td>
+    <td align="center" style="vertical-align: top; text-align: left;">Personal experiences with the shuttle were not so great </td>
     <td></td>
-    <td align="center">Creating something truly unique just for Sheridan students</td>
+    <td align="center" style="vertical-align: top; text-align: left;">Creating something truly unique just for Sheridan students</td>
   </tr>
 </table>
 
