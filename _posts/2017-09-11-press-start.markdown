@@ -126,3 +126,23 @@ In the end, we wanted to reduce the frustration of finding games. Our secondary 
 [![1](/images/posts/strt5.png)](https://wilsontruong.com/images/posts/strt5.png)
 
 <a href="https://xd.adobe.com/view/93f42c2c-4e6b-4231-61a2-45b95ab6f5ef-e5c5/">Working prototype link</a>
+
+<br>
+
+### The take aways
+
+In this hackathon, the theme was challenging, and it was tough because we were competing against so many schools. We weren’t sure if our idea was going to work realistically but instead of worrying about that, we focused on what we believed, and I feel that we successfully did that. What I learned through this was: 
+
+> Onboarding is key
+
+During judging, one of the key points of feedback that they had was onboarding. I learned that our onboarding was a bit too long and could be shortened so that the user is able to get into the app quicker. I realized that this applies to any kind of experience such as games where tutorials are important but shouldn’t be too long to deter the experience. By minimizing the onboarding tasks, the user can quickly get into the app and not get bored by multiple screens just to setup the app.
+
+> Focus on one aspect
+
+I learned that having a focus is important and provides a direction when creating the prototype. Initially, we had a lot of ideas to implement but decided to focus on one thing and do it well. I think that this is a major factor to what makes an app or product successful, doing one thing and one thing well.
+
+> Working remotely with others kind of sucks
+
+This was the first time I did a hackathon online and it was a bit challenging due to it being remote. Although, one positive thing was that we could do it in our own home but I miss the interaction and working with others physically. Something about working in-person makes things feel more efficient and better.
+
+<br>
