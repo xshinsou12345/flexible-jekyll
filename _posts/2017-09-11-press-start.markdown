@@ -30,15 +30,15 @@ tags: [UI, UX, Visual Design] # add tag
 <tbody>
 
 <tr>
-<td markdown="span" style="vertical-align: top; text-align: left;">This app prototype revolves around providing new gamers with game recommendations as we saw it was a pain point for new gamers to find games with a overwhelming amountof choices. We created this prototype as a part of Adobe's Creative Jam with Activision, which made it to the final selection of judging.</td>
+<td markdown="span" style="vertical-align: top; text-align: left;">This app prototype revolves around providing new gamers with game recommendations as we saw it was a pain point for new gamers to find games with an overwhelming amount of choices. We created this prototype as a part of Adobe's Creative Jam with Activision, which made it to the final selection of judging.</td>
 
 <td></td>
 
-<td markdown="span" style="vertical-align: top; text-align: left;">Gaming has been a popular past time for many people and with the abundant amount of games, it can provide an overwhelming amount of choices to new gamers. With this in mind, how might we inform new gamers through an app?</td>
+<td markdown="span" style="vertical-align: top; text-align: left;">Gaming has been a popular pastime for many people and with the abundant amount of games, it can provide an overwhelming amount of choices to new gamers. With this in mind, how might we inform new gamers through an app?</td>
 
 <td></td>
 
-<td markdown="span" style="vertical-align: top; text-align: left;">My role for this project was leading the overall visual design and UI of the app, in addition to working with two other team members on the UX. There was just 48 hours to complete and submit the prototype, to be judged.</td>
+<td markdown="span" style="vertical-align: top; text-align: left;">My role for this project was leading the overall visual design and UI of the app, in addition to working with two other team members on the UX. There were just 48 hours to complete and submit the prototype, to be judged.</td>
 
 </tr>
 
