@@ -112,20 +112,33 @@ Research was done through interviews, since this project was small - I interview
 <br>
 
 <table>
-  <colgroup>
-<col width="33.33%" />
-<col width="33.33%" />
-<col width="33.33%" />
+<colgroup>
+<col width="30%" />
+<col width="5%" />
+<col width="30%" />
+<col width="5%" />
+<col width="30%" />
 </colgroup>
   <tr>
-    <th align="center"><i class="fa fa-heart"></i></th>
-    <th align="center"><i class="fa fa-meh"></i></th>
-    <th align="center"><i class="fa fa-arrows-alt-h"></i></th>
+    <th align="center"><i class="fa fa-heart fa-5x"></i><br></th>
+    <th></th>
+    <th align="center"><i class="fa fa-meh fa-5x"></i><br></th>
+    <th></th>
+    <th align="center"><i class="fa fa-arrows-alt-h fa-5x"></i><br></th>
   </tr>
   <tr>
-    <td align="center">A “love-hate” relationship <br> with the service</td>
-    <td align="center">Dissatisfaction <br> with the service</td>
-    <td align="center">Variability of <br> the service</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: top;">A “love-hate” relationship with the service</td>
+    <td></td>
+    <td align="center" style="vertical-align: top;">Dissatisfaction with the service</td>
+    <td></td>
+    <td align="center" style="vertical-align: top;">Variability of the service</td>
   </tr>
 </table>
 
