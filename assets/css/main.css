@@ -858,7 +858,7 @@ table td, table.blueTable th {
 }
 
 table tbody td {
-  font-size: 13px;
+  font-size: 16px;
 }
 
 table thead {
@@ -866,20 +866,20 @@ table thead {
 }
 
 table thead th {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 500;
   color: #000;
 }
 
 table tfoot {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 500;
   color: #fff;
   background: none;
 }
 
 table tfoot td {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .wrapper {
