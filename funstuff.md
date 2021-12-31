@@ -52,7 +52,7 @@ This is a collection of work that I did for my visual design classes and other t
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/fn-st-10.png)
+![image]({{site.baseurl}}/assets/img/fn-st-10.jpg)
 
 <br>
 
