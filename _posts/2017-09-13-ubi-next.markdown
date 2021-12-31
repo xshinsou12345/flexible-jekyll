@@ -135,8 +135,12 @@ This challenge was insanely tough but one thing that got me through the various 
     
 Those challenges made me think how players can interact with a menu or HUD. I went with a typographic and simplistic look, to not overload the player's mind so that they can get into the menu and instantly know how to use it. Keeping it simple was the core concept and one of the major pillars for my design, as I see it as a trend for next gen game UI.
 
-[![1](/images/posts/ubi13.jpg)](https://wilsontruong.com/images/posts/ubi13.jpg)
+<br>
+
+![image]({{site.baseurl}}/assets/img/ub-ft-2.jpg)
 <i style="font-size:12px;">Final HUD Mockup</i>
+
+<br>
 
 Accessibility was a critical thing for me to take into consideration (not only it was in the brief), as it was something important to me as a designer and to show that I understand how to design something that is accessible. To combat this, I implemented into my designs:
 
@@ -178,7 +182,9 @@ Accessibility was a critical thing for me to take into consideration (not only i
 I constantly referred to the Association of Registered Graphic Designer's guide to 
 <a href="https://www.rgd.ca/resources/accessibility/access">accessibility practices</a>, which was a great resource to refer to when designing my mocks.
 
-[![2](/images/posts/ubi15.png)](https://wilsontruong.com/images/posts/ubi15.png)
+<br>
+
+![image]({{site.baseurl}}/assets/img/ub-ft-3.png)
 <i style="font-size:12px;">The Menu UI with simulated protanopia type colour blindness</i>
 
 <br>
@@ -187,23 +193,37 @@ I constantly referred to the Association of Registered Graphic Designer's guide 
 
 At first, my initial designs were a bit bold in design and use a grid system. I was heavily inspired by how The Division 2 organized its information and the overall design. As I thought more and more about the overall theme of Splinter Cell: Blacklist, I instantly knew that it will not work. It is not a looter-shooter, it is a stealth action-adventure game.
 
-[![3](/images/posts/ubi20.png)](https://wilsontruong.com/images/posts/ubi20.png)
+<br>
+
+![image]({{site.baseurl}}/assets/img/ub-ft-4.png)
 <i style="font-size:12px;">Version 1 of menu UI</i>
 
-[![4](/images/posts/ubi19.png)](https://wilsontruong.com/images/posts/ubi19.png)
+<br>
+
+![image]({{site.baseurl}}/assets/img/ub-ft-5.png)
 <i style="font-size:12px;">Version 1 of HUD</i>
 
-[![5](/images/posts/ubi16.jpg)](https://wilsontruong.com/images/posts/ubi16.jpg)
+<br>
+
+![image]({{site.baseurl}}/assets/img/ub-ft-6.jpg)
 <i style="font-size:12px;">Version 2 of menu UI</i>
+
+<br>
 
 The constant going back and taking a step back to think about the player and the overall picture, really helped me to visualize how it would be used in an actual environment. I looked deeper into current and older titles like Astral Chain, Division 2, Death Stranding, Star Wars Jedi: Fallen Order, Control, Horizon Zero Dawn, and The Last of Us. I realized that as a gamer, complex menus are not fun, something that is intuitive and easy to navigate is the key.
 
-[![6](/images/posts/ubi17.jpg)](https://wilsontruong.com/images/posts/ubi17.jpg)
+<br>
+
+![image]({{site.baseurl}}/assets/img/ub-ft-7.jpg)
 <i style="font-size:12px;">Version 3 of menu UI</i>
+
+<br>
 
 I went through different fonts; my initial picks were display fonts that were geometric because I wanted to show a technical feel. I eventually gravitated to san-serif fonts as it was more modern and in-line with next-gen games. I believed that using san-serif fonts were better from an accessibility standpoint as display fonts can be often hard to read, depending on the person. I used two different fonts: FS Industrie and DIN Pro, these two fonts were perfect as they were clean and geometric.
 
-[![7](/images/posts/ubi14.jpg)](https://wilsontruong.com/images/posts/ubi14.jpg)
+<br>
+
+![image]({{site.baseurl}}/assets/img/ub-ft-8.jpg)
 <i style="font-size:12px;">Final version of menu UI</i>
 
 <br>
@@ -213,22 +233,45 @@ I went through different fonts; my initial picks were display fonts that were ge
 The final design was a huge departure from what I initially sketched out on paper. As time went on and taking the feedback from the mid-point review, I instantly applied it and changed directions. The result was something that I truly felt was my best work. An UI that is modern, fresh, and easily understood by anyone and everyone. An UI that can be taken for a remaster of a Splinter Cell game in 2020.
 
 My sketches/initial concepts...
-[![8](/images/posts/ubi18.png)](https://wilsontruong.com/images/posts/ubi18.png)
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/ub-ft-9.png)
+
+<br>
 
 Final mocks (HUD + Menu):
-[![9](/images/posts/ubi13.jpg)](https://wilsontruong.com/images/posts/ubi13.jpg)
+
 <br>
-[![10](/images/posts/Critical-Hostile.jpg)](https://wilsontruong.com/images/posts/Critical-Hostile.jpg)
+
+![image]({{site.baseurl}}/assets/img/ub-ft-10.jpg)
+
 <br>
-[![11](/images/posts/ubi14.jpg)](https://wilsontruong.com/images/posts/ubi14.jpg)
+
+![image]({{site.baseurl}}/assets/img/ub-ft-11.jpg)
+
 <br>
-[![12](/images/posts/Equipped.jpg)](https://wilsontruong.com/images/posts/Equipped.jpg)
+
+![image]({{site.baseurl}}/assets/img/ub-ft-12.jpg)
+
 <br>
-[![13](/images/posts/Purchase.jpg)](https://wilsontruong.com/images/posts/Purchase.jpg)
+
+![image]({{site.baseurl}}/assets/img/ub-ft-13.jpg)
+
 <br>
-[![14](/images/posts/Unavailable.jpg)](https://wilsontruong.com/images/posts/Unavailable.jpg)
+
+![image]({{site.baseurl}}/assets/img/ub-ft-14.jpg)
+
+<br>
+
+![image]({{site.baseurl}}/assets/img/ub-ft-15.jpg)
+
+<br>
 
 Motion concepts:
+
+<br>
+
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/_leTSX09NV0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <br>
