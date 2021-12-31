@@ -43,6 +43,11 @@ This is a collection of work that I did for my visual design classes and other t
 
 <br>
 
+<i style="font-size:12px;">Eco-Life, an interactive narrative on reducing your carbon footprint</i>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/q6J98v5FzXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<br>
+
 ![image]({{site.baseurl}}/assets/img/fn-st-4.png)
 
 <br>
