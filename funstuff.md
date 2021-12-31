@@ -11,6 +11,11 @@ This is a collection of work that I did for my visual design classes and other t
 
 <br>
 
+<i style="font-size:12px;">Super Slime Adventure, a self developed platformer in GameMaker Studio</i>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kOHQVN347fM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<br>
+
 <i style="font-size:12px;">Left/Right Indicators on Jacket for Cyclists - A Physical Computing Project</i>
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/V8iPamp9Kok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
