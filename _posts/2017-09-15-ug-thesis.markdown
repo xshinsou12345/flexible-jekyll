@@ -3,7 +3,7 @@ layout: post
 title: Undergrad Thesis
 permalink: /thesis/
 description: IxD Capstone Project
-img: ub-ft-1.png # Add image post (optional)
+img: gurachibi.png # Add image post (optional)
 tags: [UX, UI, User Research, Design Research, Prototyping] # add tag
 ---
 
