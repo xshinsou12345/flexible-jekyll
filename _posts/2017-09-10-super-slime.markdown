@@ -3,7 +3,7 @@ layout: post
 title: Super Slime Adventure
 permalink: /superslime/
 description: Game Development
-img: tr-ft-1.png
+img: sp-sl-1.png
 tags: [UI, UX, Visual Design, Game Development]
 ---
 <br>
