@@ -106,7 +106,7 @@ We started doing wireframes to start the process and then refined it further as 
 
 <br>
 
-[![1](/images/posts/strt6.png)](https://wilsontruong.com/images/posts/strt6.png)
+![image]({{site.baseurl}}/assets/img/st-ft-2.png)
 <i style="font-size:12px;">Wireframes! Oh so many of them!</i>
 
 <br>
@@ -115,19 +115,33 @@ We started doing wireframes to start the process and then refined it further as 
 
 Our solution was a simple and easy way of recommending a new player games based on their criteria. An onboarding process was made to ease in the user to the app and to tailor their preferences. The UI is centered around cards and minimalism, which results in a focus on the game and information shown. I also took the concept of "familiarity" like what game UI does by using familiar elements in other games to provide familiarity to the player. I applied this here with making it feel very “iOS like”, so the layout and type are familiar, so it creates less load on the mind and easy to follow.
 
-[![1](/images/posts/strt2.png)](https://wilsontruong.com/images/posts/strt2.png)
+<br>
+
+![image]({{site.baseurl}}/assets/img/st-ft-3.png)
+
+<br>
 
 The user can swipe left and right to show different recommendations, which makes it easy for the user to look for games and see the actual game. We selected cards as a form of UI because it was easy to show information and clean. We didn’t want to overload the user with multiple titles but rather one title at a time, until the user likes a recommended game.
 
-[![1](/images/posts/strt3.png)](https://wilsontruong.com/images/posts/strt3.png)
+<br>
+
+![image]({{site.baseurl}}/assets/img/st-ft-4.png)
+
+<br>
 
 We also added other elements like social media, sharing, wish lists, and favourites – Which enhances the experience further. The idea is to connect this to major platforms like PSN, Xbox Live, and My Nintendo, so it players can share their wishlists, games, and whatnots to different consoles.
 
-[![1](/images/posts/strt4.png)](https://wilsontruong.com/images/posts/strt4.png)
+<br>
+
+![image]({{site.baseurl}}/assets/img/st-ft-5.png)
+
+<br>
 
 In the end, we wanted to reduce the frustration of finding games. Our secondary research showed that people often ask for recommendations online via social hubs like Reddit, Facebook, or Twitter. It shows that the abundance of games out there is quite large and is daunting to a new gamer today. I felt that we accomplished this by creating an app that is focused on doing one thing good, recommending quality games based on the user’s needs/preferences.
 
-[![1](/images/posts/strt5.png)](https://wilsontruong.com/images/posts/strt5.png)
+<br>
+
+![image]({{site.baseurl}}/assets/img/st-ft-6.png)
 
 <a href="https://xd.adobe.com/view/93f42c2c-4e6b-4231-61a2-45b95ab6f5ef-e5c5/">Working prototype link</a>
 
