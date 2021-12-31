@@ -62,7 +62,7 @@ When I first started this project, I had an initial idea of what the game was to
 
 <br>
 
-![image](/images/posts/game4.png)
+![image]({{site.baseurl}}/assets/img/sp-sl-2.png)
 
 <br>
 
@@ -79,7 +79,7 @@ Majority of the assets were created within the game engine, which was very fun t
 
 <br>
 
-![image](/images/posts/game3.png)
+![image]({{site.baseurl}}/assets/img/sp-sl-3.png)
 
 <br>
 
@@ -91,7 +91,7 @@ While testing (on my own), I've found certain strategies such as jumping and sho
 
 <br>
 
-![image](/images/posts/game2.png)
+![image]({{site.baseurl}}/assets/img/sp-sl-4.png)
 
 <br>
 
@@ -99,7 +99,7 @@ With power ups, I decided to hide them somewhere in each level. The power ups do
 
 <br>
 
-![image](/images/posts/game1.png)
+![image]({{site.baseurl}}/assets/img/sp-sl-5.png)
 
 <br>
 
