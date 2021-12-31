@@ -2,7 +2,7 @@
 layout: about
 title: Fun Stuff
 permalink: /funstuff/
-img: gurachibi.png
+img: fn-st-12.png
 ---
 
 <br>
