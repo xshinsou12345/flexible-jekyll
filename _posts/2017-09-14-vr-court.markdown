@@ -3,7 +3,7 @@ layout: post
 title: The Virtual Courtroom
 permalink: /vcourtroom/
 description: Internship
-img: gurachibi.png # Add image post (optional)
+img: vr-ft-1.png # Add image post (optional)
 tags: [UX, UI, User Research, Visual Design, Internship]
 ---
 
