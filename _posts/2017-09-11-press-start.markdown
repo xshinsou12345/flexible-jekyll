@@ -147,7 +147,7 @@ In the end, we wanted to reduce the frustration of finding games. Our secondary 
 
 <br>
 
-### The take aways
+### The takeaways
 
 In this hackathon, the theme was challenging, and it was tough because we were competing against so many schools. We weren’t sure if our idea was going to work realistically but instead of worrying about that, we focused on what we believed, and I feel that we successfully did that. What I learned through this was: 
 
