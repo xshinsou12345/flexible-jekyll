@@ -109,7 +109,7 @@ With power ups, I decided to hide them somewhere in each level. The power ups do
 
 <br>
 
-### The take aways
+### The takeaways
 
 I felt that the result was great but not perfect as there was a lot to improve. I tested this game with a few friends and the feedback that they gave were:
 
