@@ -55,6 +55,8 @@ tags: [UX, UI, User Research, Visual Design, Internship]
  
 Remote learning has been always challenging due to the absence of in-person learning, although technology has enhanced this through virtual environments that allow students to interact with content in different ways. Working with Open University, a fully online university, we were tasked to create a solution or an MVP (Most Viable Product) to enable UK students to learn more about the UK courtroom. Due to the pandemic, we learned that access to these courtrooms was restricted and found out that Law students participate in “mooting”, which were mock trials – To compete and develop their communication and presentation skills. This was another use case that we saw as an opportunity that we could create.
  
+<br> 
+ 
 ### The start of a long journey
  
 We followed a design process that was developed by IDEO from the book called Design Thinking for Educators. It is focused on designing for students, so was perfect for us. The design process consisted of a framework of:
@@ -123,21 +125,27 @@ We picked a 3D virtual environment using Unity as a development platform. Based 
  
 While my team members focused on other aspects of the MVP like the back end, 3D modeling, and development, my focus was the UI and visual design of the tool. I started creating a user flow in how students would navigate their way into the tool. My goals were to be as simple as possible because, from the surveys and research we performed, these students don’t have much technical knowledge so creating something straightforward will avoid problems.
  
-<menu flow>
+![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
+<i style="font-size:12px;">Menu flow</i>
  
 I also wanted an interesting way that would attract students to use this tool as we also found out that, not every student wants an extra piece of software to install or use. Some prefer the ease of use of Zoom or MS Teams, as it is very simple to set up. This was when I experimented with 3D menus, where it uses a 3D environment as a menu. The goal was to have something attractive while pushing the boundaries of UI design.
  
-<show video>
+![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
+<i style="font-size:12px;">Video</i>
  
 Although my concern was that this would be more diegetic rather than functional, so the idea was scrapped for something more straightforward:
  
-<show wireframes>
+![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
+<i style="font-size:12px;">Wireframes</i>
  
-<show mockup 1>
+![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
+<i style="font-size:12px;">First iteration</i>
  
-<show mock up 2>
+![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
+<i style="font-size:12px;">Second iteration</i>
  
-<show mockup 3>
+![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
+<i style="font-size:12px;">Third iterationp</i>
 
 <br>  
   
@@ -175,11 +183,14 @@ Along with this feedback, I focused on a few things:
  
 The most important aspect that was changed was simplifying the UI but also having a level of detail. This meant re-visiting fonts, the text, and also refining the overall layout of the UI. This came with changes to the user flow to keep it even more straightforward, so there wouldn’t be any frustration on the other side. Further features were added such as UI customization, being able to turn certain aspects of the UI on and off – This was to prevent distractions for the students when they are presenting their submissions in the mock trial.
  
-<final UI here>
+![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
+<i style="font-size:12px;">Final UI</i>
  
-<final UI here>
+![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
+<i style="font-size:12px;">Final UI</i>
  
-<final UI here>
+![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
+<i style="font-size:12px;">Final UI</i>
   
 <br>
  
@@ -208,7 +219,14 @@ As the MVP is finalized in the last few weeks of the project, such as final UI i
   
 ### Final MVP
  
-<pictures go here>
+![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
+<i style="font-size:12px;">SS</i>
+
+![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
+<i style="font-size:12px;">SS</i>
+
+![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
+<i style="font-size:12px;">SS</i>
   
 <br>
   
