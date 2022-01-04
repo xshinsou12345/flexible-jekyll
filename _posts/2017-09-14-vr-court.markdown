@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Virtual Courtroom Project
+title: The Virtual Courtroom
 permalink: /vcourtroom/
 description: Internship
 img: gurachibi.png # Add image post (optional)
