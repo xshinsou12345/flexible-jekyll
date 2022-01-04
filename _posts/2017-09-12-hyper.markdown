@@ -189,7 +189,7 @@ I was very happy on how the motion concepts turned out; I furthered my understan
 
 <br>
 
-### The take aways
+### The takeaways
 
 In the end, I achieved what I wanted to do: which was creating a HUD that was functional and visually appealing. Delving into FUI was fun and I found that sometimes making it simple really helps as some FUI I've seen can be very complicated. A few things that I've learned through this was:
 
