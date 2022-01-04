@@ -30,15 +30,15 @@ tags: [UX, UI, User Research, Visual Design, Internship]
 <tbody>
 
 <tr>
-<td markdown="span" style="vertical-align: top; text-align: left;">This project was an exploration into human centered design through understanding different design research methods and to experience the design process using a real problem. The design challenge for this project was to create a digital experience or redesign a current digital app, to enhance the experience of commuting for Sheridan Students.</td>
+<td markdown="span" style="vertical-align: top; text-align: left;">This internship was focused on creating an MVP to address the need of providing a space for students to learn aspects of a UK courtroom. This was in collaboration with a fully remote university called Open University. As the project proceeded there was an opportunity to address the need of creating a social space and a platform for students to practice mooting (mock trials).</td>
 
 <td></td>
 
-<td markdown="span" style="vertical-align: top; text-align: left;">Commuting to school is a large part of a student's life and often not, students use up 1-2 hours (or even more) everyday in their lives to get to their classes. As using transit can be a bit dreadful and boring, how might we enhance the experience of commuting via transit to Sheridan Students?</td>
+<td markdown="span" style="vertical-align: top; text-align: left;">Pushing the boundaries of remote learning through using different technologies like Virtual Reality or even immersive environments, create another layer of interaction in education. How might we create a place for Law students at Open University to learn about the UK courtrooms?</td>
 
 <td></td>
 
-<td markdown="span" style="vertical-align: top; text-align: left;">My role for this project encompasses everything from UX, UI, User Research, and Visual Design. This project took four months starting in September 2019.</td>
+<td markdown="span" style="vertical-align: top; text-align: left;">My role for this project was leading UI, visual design, and UI implementation. I also worked on UX, 3D modeling (environments and objects), user research, and development (Unity). In addition, I was working with two other Interaction Design students at Sheridan along with a professor who was a mentor/supervisor to the project. This internship lasted three months from June 2021 to August 2021.</td>
 
 </tr>
 
@@ -51,200 +51,179 @@ tags: [UX, UI, User Research, Visual Design, Internship]
 
 <br>
 
-### Commuting, the bane of a student's existence
-
-I think as students, majority of our time is mostly commuting back and forth to classes. At times, it is stressing because of its various issues like rush hour, overcrowding, delays, and other factors that would delay us from getting to class on time. For this project, the problem I had to solve was to create a solution to better the commute experience. We were encouraged to create anything from a physical product or digital.
-
-I decided to focus on the shuttle system that Sheridan provides, which was cut down to just two campuses in the recent year due to funding. My reason for focusing on Sheridan’s shuttle system was a few factors: 
-
-<br>
-
-<table>
-<colgroup>
-<col width="30%" />
-<col width="5%" />
-<col width="30%" />
-<col width="5%" />
-<col width="30%" />
-</colgroup>
-  <tr>
-    <th align="center"><i class="fa fa-mobile-alt fa-5x"></i><br></th>
-    <th></th>
-    <th align="center"><i class="fa fa-bus-alt fa-5x"></i><br></th>
-    <th></th>
-    <th align="center"><i class="fa fa-users fa-5x"></i><br></th>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td align="center" style="vertical-align: top;">A lot of solutions that cater to commuters</td>
-    <td></td>
-    <td align="center" style="vertical-align: top;">Personal experiences with the shuttle were not so great </td>
-    <td></td>
-    <td align="center" style="vertical-align: top;">Creating something truly unique just for Sheridan students</td>
-  </tr>
-</table>
-
-<br>    
-
-### The solution
-
-The idea was to integrate the shuttle and OneCard system that Sheridan uses (similarly to a card payment system) into an existing application called Transit. Eventually, the concept was to expand it to other school’s shuttle/payment systems so that students have the best of both worlds.
-
-![image]({{site.baseurl}}/assets/img/tr-ft-2.png)
-
-Why integrate rather than creating something new? I feel Transit is a perfect example of solving majority of issues that commuters face today, which is providing live transit data to the user. I figured, instead of reinventing the wheel, why not create a new function for an existing product.
+### The challenges of remote learning
+ 
+Remote learning has been always challenging due to the absence of in-person learning, although technology has enhanced this through virtual environments that allow students to interact with content in different ways. Working with Open University, a fully online university, we were tasked to create a solution or an MVP (Most Viable Product) to enable UK students to learn more about the UK courtroom. Due to the pandemic, we learned that access to these courtrooms was restricted and found out that Law students participate in “mooting”, which were mock trials – To compete and develop their communication and presentation skills. This was another use case that we saw as an opportunity that we could create.
+ 
+### The start of a long journey
+ 
+We followed a design process that was developed by IDEO from the book called Design Thinking for Educators. It is focused on designing for students, so was perfect for us. The design process consisted of a framework of:
+ 
+- Discovery
+- Interpretation
+- Ideation
+- Experimentation
+- Evolution
+ 
+Following this framework provided us a structure when designing and performing user testing on our prototypes.
 
 <br>
 
-### The research
-
-I used the goal-directed design process or the user centered design process (as commonly known). It involved different steps from research to the final product:
-
-![image]({{site.baseurl}}/assets/img/tr-ft-10.png)
-
-Research was done through interviews, since this project was small - I interviewed two students: One first year, who uses the shuttle and the other, a second-year student who takes Oakville Transit. The research provided a few things:
-
-<br>
-
-<table>
-<colgroup>
-<col width="30%" />
-<col width="5%" />
-<col width="30%" />
-<col width="5%" />
-<col width="30%" />
-</colgroup>
-  <tr>
-    <th align="center"><i class="fa fa-heart fa-5x"></i><br></th>
-    <th></th>
-    <th align="center"><i class="fa fa-meh fa-5x"></i><br></th>
-    <th></th>
-    <th align="center"><i class="fa fa-arrows-alt-h fa-5x"></i><br></th>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td align="center" style="vertical-align: top;">A “love-hate” relationship with the service</td>
-    <td></td>
-    <td align="center" style="vertical-align: top;">Dissatisfaction with the service</td>
-    <td></td>
-    <td align="center" style="vertical-align: top;">Variability of the service</td>
-  </tr>
-</table>
-
-<br>   
-
-Although, not everything was frustration as the interviews showed that they were happy that the service was there rather than not. Additional research was done in the form of observation, which was taking the shuttle and experiencing the commute - Which my conclusions were inline with the student who I interviewed.
-From the research, personas were created and then scenarios (below) to simulate the functionality of the integration. Two personas that were created were:
+### Delving into Education Technology
+ 
+To start the project, we started the Discovery phase by doing design and secondary research. From our preliminary research, we found:
+ 
+- Education Technology continues to evolve by using VR to simulate real-life professional experiences like health care
+- With the pandemic, the majority of Law schools are going online
+- There are existing technologies that actual courts use (during the pandemic) for their trials, such as software like Zoom or Teams
+ 
+This secondary research provided a general idea on the Education Technology area and what was available. We saw Unity and its applications of Education Technology in the form of simulations in health care and automotive. This was what OU was looking for, a virtual courtroom where students can go into 
+a 3D environment with avatars and learn the basics of the courtroom via interactions around the area. As we proceeded to do primary research, we found that what OU wanted was opposite what students needed.
 
 <br>
 
-<table>
-  <colgroup>
-<col width="15%" />
-<col width="25%" />
-<col width="20%" />
-<col width="25%" />
-<col width="15%" />
-</colgroup>
-  <tr>
-    <th align="center"></th>
-    <th align="center"><i class="fa fa-user-tie fa-5x"></i></th>
-    <th align="center"></th>
-    <th align="center"><i class="fa fa-user-ninja fa-5x"></i></th>
-    <th align="center"></th>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <th align="center"></th>
-    <td align="center" style="vertical-align: top;">Person A:<br> I take city transit!</td>
-    <td align="center"></td>
-    <td align="center" style="vertical-align: top;">Person B:<br> I take the Sheridan shuttle!</td>
-    <td align="center"></td>
-  </tr>
-</table>
-
-<br>    
-
-Using the personas as a starting point, design requirements were created to understand what the user wants. After wards, scenarios were created to visualize how a user would use the function in a “perfect world”. Then it was off to create the wireframes and prototype.
-
-![image]({{site.baseurl}}/assets/img/tr-ft-3.png)
-<i style="font-size:12px;">First Persona</i>
+### Research and more research
+ 
+To get a better idea of what students wanted, me and my team went to perform surveys on students in the Law program. Our goal through these surveys was to:
+ 
+- Determine the level of technology that students have
+- What is their comfort level with technology
+- What are their expectations of a Virtual Courtroom
+ 
+Our findings were:
+ 
+- 73% had laptops compared to 27% had desktops
+- Student’s expectations of a “virtual courtroom” were a 3D courtroom environment that extended functionality beyond a Zoom or MS Teams call
+- The importance of mooting for students (mock trials), as it was a core activity for Law students at the OU Law program
+ 
+We also interviewed current students, alumni (recent graduates), and lawyers who judge moots, to gain a further understanding of what their needs were and to get an idea of how these mock trials were run. 
+ 
+From our interviews, we found:
+- Video was important in a virtual environment as students want to read the judge’s reactions and body language just like in an in-person mock trial
+- Students want additional tools to help them track specific things like time and notes
+- The need for a higher-level interactive experience compared to Zoom or MS Teams
+ 
+It was quite clear that students want a tool to facilitate and learn mooting compared to what OU thought, was a tool to learn about the courtroom. This was in line with our assumptions that students wanted both.
 
 <br>
 
-![image]({{site.baseurl}}/assets/img/tr-ft-4.png)
-<i style="font-size:12px;">Second Persona</i>
+### What are our options?
+ 
+Moving to the Ideation phase, we weighed our options:
+ 
+- VR
+- “Deluxe Zoom”
+- 3D Virtual Environment
+ 
+We picked a 3D virtual environment using Unity as a development platform. Based on our primary research, students wanted an interactive experience that used video and audio. Since Unity was very flexible as a development platform (i.e. video, audio, matchmaking), we saw an opportunity to use it for the MVP.
 
 <br>
+ 
+### Prototyping and beyond
+ 
+While my team members focused on other aspects of the MVP like the back end, 3D modeling, and development, my focus was the UI and visual design of the tool. I started creating a user flow in how students would navigate their way into the tool. My goals were to be as simple as possible because, from the surveys and research we performed, these students don’t have much technical knowledge so creating something straightforward will avoid problems.
+ 
+<menu flow>
+ 
+I also wanted an interesting way that would attract students to use this tool as we also found out that, not every student wants an extra piece of software to install or use. Some prefer the ease of use of Zoom or MS Teams, as it is very simple to set up. This was when I experimented with 3D menus, where it uses a 3D environment as a menu. The goal was to have something attractive while pushing the boundaries of UI design.
+ 
+<show video>
+ 
+Although my concern was that this would be more diegetic rather than functional, so the idea was scrapped for something more straightforward:
+ 
+<show wireframes>
+ 
+<show mockup 1>
+ 
+<show mock up 2>
+ 
+<show mockup 3>
 
-Further design research was completed such as Behavioural Attributes Mapping and framework sketches to determine user flow.
+<br>  
+  
+### A new challenger appears
+ 
+Several challenges came about when designing the UI was carefully balancing the amount of information shown in the user interface. Since we saw from our primary research that the technology level is relatively low, we had to make it straightforward as possible.
+ 
+Although this was difficult due to the features, we wanted to incorporate such as character creation. Some of these systems like avatar editing, the connection screen, and even movement, were borrowed from game design concepts. Since the students we interviewed and surveyed didn’t have much knowledge of games, we had to confirm our assumptions through user testing the UI with a few students.
+ 
+<br>  
+  
+### Testing, testing, and more testing
+ 
+User testing was done to identify areas of improvement in the user flow, text, and any other issues in the UI. Since this was an initial passthrough, we tested via a digital prototype in Adobe XD. I performed tests using scenarios with a few students, which resulted in feedback:
+ 
+- The UI was straightforward and intuitive
+- Liked the customization options
+- Students liked the overall visual design of the UI and menus
+ 
+Although, some pain points were:
+ 
+- The language used was vague and it should match what Law students are used to
+- Having a balance of information and white space, so it doesn’t look cluttered
+- Some systems were unclear like interactions and movement
+ 
+Along with this feedback, I focused on a few things:
+ 
+- Implementing a font that would be easy to read
+- Tutorials when the student enters the count room for movement and interactions
+- Adjusting the language of the UI, so it is more familiar with Law students
+  
+<br> 
 
+### The final UI
+ 
+The most important aspect that was changed was simplifying the UI but also having a level of detail. This meant re-visiting fonts, the text, and also refining the overall layout of the UI. This came with changes to the user flow to keep it even more straightforward, so there wouldn’t be any frustration on the other side. Further features were added such as UI customization, being able to turn certain aspects of the UI on and off – This was to prevent distractions for the students when they are presenting their submissions in the mock trial.
+ 
+<final UI here>
+ 
+<final UI here>
+ 
+<final UI here>
+  
 <br>
+ 
+### Putting it all together
+ 
+As the MVP started to take shape with the work from my team members and the UI was close to being finalized, I started working on different aspects of the 3D environment. Things like adding small objects to make the environment more realistic and implementing features that OU wanted. Such features were:
+ 
+- An information system that the student can interact with to get information about the history of the courtroom
+- Sitting and standing
+- Further enhancements to the environment such as signage and small objects to create more realism and detail
+  
+<br> 
+  
+### Even more testing
+ 
+As the MVP is finalized in the last few weeks of the project, such as final UI implementation, 3D environment work, and character customization, we tested the MVP with students to get an understanding of what can be improved in a short duration of time. We also wanted to get a general idea of what students thought of the tool and how they can use it for other things. What we found was:
+ 
+- Students were generally positive and excited about the tool as they haven’t encountered something like this in their program
+- It would be very useful for first- and second-year students to learn about the UK courts through this tool as it is almost accurate to the real thing
+- Students we tested with saw an opportunity of using the tool for social gatherings, since there was a webcam feed and audio
+- Students felt very intimate just like in real life due to the moving avatars, webcam, and audio. They mentioned that it felt like an actual physical interaction but digitally
+- The overall UI was very positive as students were able to connect to a room without issues and were very appreciative of the tutorials provided as some students were not familiar with controls from video games (WASD)
+- Students were very much appreciative about the level of detail that we put, such as books, cups, plants, and such, that would mimic a courtroom environment.
 
-![image]({{site.baseurl}}/assets/img/tr-ft-5.png)
-<i style="font-size:12px;">Behavioural Attributes Map</i>
-
+<br>  
+  
+### Final MVP
+ 
+<pictures go here>
+  
 <br>
-
-![image]({{site.baseurl}}/assets/img/tr-ft-6.png)
-<i style="font-size:12px;">Framework (sketches) for mobile app</i>
-
-<br>
-
-![image]({{site.baseurl}}/assets/img/tr-ft-7.png)
-<i style="font-size:12px;">Framework (sketches) for smartwatch app</i>
-
-<br>
-
-### The solution
-
-My solution was to integrate the shuttle service right into Transit. I felt rather than trying to force a solution on to an existing transit system with its own problems, I focused on the shuttle experience. By integrating Sheridan’s shuttle system and payment system into Transit, the application (Transit) can be used both ways: for students who commute using a city’s transit system and for students who use the school’s transportation system. 
-
-![image]({{site.baseurl}}/assets/img/tr-ft-8.png)
-
-But wait! Why these functions? My goal was to create convenience for the student. To reload an OneCard with funds, the student has to login to the website to reload. This is rather annoying since the student would either: need a computer or do it on the browser on their phone. Purchasing tickets is in a similar fashion, why make things hard when you can do it on your phone with ease?
-
-![image]({{site.baseurl}}/assets/img/tr-ft-9.png)
-
-The final prototype included an Apple Watch app as I wanted to expand the functionality into the wearables area. 
-
-<a href="https://xd.adobe.com/view/41d5c0b7-eda9-420f-4deb-c0afe5c24466-37e4/">Adobe XD link for mobile app</a>
-
-<a href="https://xd.adobe.com/view/53789c02-e1b8-40ae-5e5f-6407566c4d51-2549/">Adobe XD link for AW app</a>
-
-<br>
-
-### The take aways
-Throughout this project, the goal was to provide a solution to an existing problem through using the goal-oriented design process (or user centered design is commonly known as). It was fun and I used the skills that I gained from my previous recruitment experiences in interviewing and gathering/analyzing data. There were a few things that I learned through this project:
-
-> Research, research, and research.
-
-Research is important and I realize that it’s something that is needed to first understand the user and second, what the user wants. My goal was to create a solution that a student can use if he/she is using the shuttle. Although, it’s quite niche, I felt it was necessary due to the overall issues with the current system
-
-> Being unique
-
-I feel with this topic of transit, there are multiple solutions out there from Uber to Google Maps. All of these popular apps these days, are quite robust with it’s functionality and what it offers to the user regarding the commute to work or school. I learned it’s hard, to create something when many options exist and understanding the target market plus a USP (unique selling proposition) is important!
-
-> The user is king
-
-Through this project, I understood the importance of the user and what they want. I learned how to use the data that I got from interviews and translated it into what the user needs. It was hard because there’s just so much information, even with two interviews. I wanted to add more but keeping it simple was the best way to go.
+  
+### Takeaways
+ 
+> Talking to the user base is important
+ 
+I learned that talking to users was very important to identify their needs. Talking to the OU Law students was very important and proved our assumptions at the start of the project. What OU assumed was way different compared to what students told us, which was that they wanted an interactive experience with video – Rather than a virtual world with just simply avatars. We saw the tool providing a way for students to practice their presentation skills in a safe environment without trouble.
+ 
+> Working collaboratively with team members who have different skillsets
+ 
+This was the first time that I worked with two other peers from the Interaction Design program in this internship, who had different skill sets than myself. I learned to rely on my team members when I have problems like in Unity, coding, or 3D modeling. Relying on my teammates when I need it is great as they have some skills that I don’t necessarily have. In addition, if my teammates are having trouble, they can lean on me for help – Whether if it is design-related or anything in-between.
+ 
+> The value of user testing and proving assumptions
+ 
+Throughout this project, we user-tested with students to ensure that we are on the right track. I learned that doing this keeps us on our toes as sometimes students find things that we don’t realize that would be an issue. For example, a student pointed out that the signage should be improved as it was a bit confusing. Originally, I added the signage to make it realistic but didn’t realize that it would help students to find their way around the 3D environment. By constantly getting users involved with the design process, I learned that feedback will shape the final product that the students could happily use in the end.
 
 <br>
