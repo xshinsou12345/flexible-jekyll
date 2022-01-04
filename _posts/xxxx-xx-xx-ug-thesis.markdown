@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Undergrad Thesis
+title: Seek
 permalink: /thesis/
 description: IxD Capstone Project
 img: gurachibi.png # Add image post (optional)
